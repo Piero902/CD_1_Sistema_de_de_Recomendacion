@@ -1,0 +1,1877 @@
+app_id,title,rating,positive_ratio,price_final,win,mac,linux,steam_deck,popularidad
+7800,Stubbs the Zombie in Rebel Without a Pulse,Very Positive,90,19.99,True,False,False,True,70.0
+12210,Grand Theft Auto IV: The Complete Edition,Very Positive,80,20.0,True,False,False,True,724.0
+244930,SNOW - The Ultimate Edition,Mixed,64,14.99,True,False,False,True,46.0
+252870,PULSAR: Lost Colony,Very Positive,90,24.99,True,True,True,True,91.0
+257420,Serious Sam 4,Very Positive,83,39.99,True,False,False,True,179.0
+261550,Mount & Blade II: Bannerlord,Very Positive,87,50.0,True,False,False,True,1002.0
+268650,From the Depths,Very Positive,90,24.99,True,True,True,True,73.0
+269190,Edge Of Eternity,Mostly Positive,76,29.99,True,False,False,True,40.0
+272230,Sub Rosa,Mostly Positive,75,19.99,True,False,True,True,36.0
+287310,Re-Volt,Very Positive,93,5.99,True,False,False,True,0.0
+307880,Savage Lands,Mixed,57,3.99,True,False,False,True,31.0
+311260,The Guild 3,Mixed,61,29.99,True,False,False,True,49.0
+313120,Stranded Deep,Mostly Positive,75,20.0,True,True,True,True,180.0
+314430,M.A.R.S.,Mixed,60,0.0,True,False,False,True,5.0
+325210,Arctico,Mostly Positive,74,9.99,True,True,False,True,18.0
+326460,ShellShock Live,Very Positive,93,9.99,True,True,True,True,228.0
+330830,Tales from the Borderlands,Very Positive,94,20.0,True,False,False,True,220.0
+334310,Plebby Quest: The Crusades,Very Positive,87,19.99,True,False,False,True,35.0
+334540,Vox Machinae,Very Positive,89,29.99,True,False,False,True,17.0
+337320,Paint the Town Red,Overwhelmingly Positive,95,19.99,True,True,True,True,252.0
+346010,Besiege,Overwhelmingly Positive,95,14.99,True,True,True,True,392.0
+346330,BrainBread 2,Mostly Positive,73,0.0,True,True,True,True,48.0
+351030,Pixel Puzzles Ultimate Jigsaw,Mostly Positive,74,0.0,True,False,False,True,32.0
+357330,Space Beast Terror Fright,Very Positive,91,14.99,True,False,False,True,21.0
+360430,Mafia III: Definitive Edition,Mixed,56,9.89,True,True,False,True,331.0
+362890,Black Mesa,Overwhelmingly Positive,95,20.0,True,False,True,True,1149.0
+363360,Interstellar Rift,Mostly Positive,70,19.99,True,False,False,True,17.0
+368260,Marvel's Midnight Suns,Very Positive,81,24.0,True,False,False,True,0.0
+370770,Holodrive,Mostly Positive,79,0.0,True,False,False,True,13.0
+374190,Infernax,Very Positive,93,19.99,True,False,False,True,24.0
+374280,Hired Ops,Mixed,66,0.0,True,False,False,True,79.0
+375480,Chronicon,Overwhelmingly Positive,95,13.99,True,False,True,True,123.0
+377300,Thunder Tier One,Mostly Positive,71,19.99,True,False,False,True,63.0
+383120,Empyrion - Galactic Survival,Very Positive,81,19.99,True,False,False,True,200.0
+383840,Nimbatus - The Space Drone Constructor,Very Positive,80,19.99,True,True,True,True,37.0
+393380,Squad,Very Positive,88,50.0,True,False,False,True,570.0
+397540,Borderlands 3,Very Positive,85,60.0,True,False,False,True,1133.0
+400080,Out of Space,Mostly Positive,79,14.99,True,True,True,True,31.0
+400750,Call to Arms - Gates of Hell: Ostfront,Very Positive,82,35.0,True,False,False,True,77.0
+407130,Tank Mechanic Simulator,Very Positive,88,19.99,True,True,False,True,69.0
+408900,Unfortunate Spacemen,Very Positive,87,0.0,True,False,False,True,150.0
+412020,Metro Exodus,Very Positive,89,30.0,True,True,True,True,1064.0
+418530,Spelunky 2,Very Positive,93,19.99,True,False,False,True,206.0
+420290,Blackwake,Very Positive,82,4.99,True,True,False,True,276.0
+420560,Firefighting Simulator - The Squad,Very Positive,82,14.99,True,False,False,True,36.0
+424370,Wolcen: Lords of Mayhem,Mixed,56,39.99,True,False,False,True,148.0
+427520,Factorio,Overwhelmingly Positive,96,35.0,True,True,True,True,1116.0
+427880,P.A.M.E.L.A.®,Mixed,61,24.99,True,False,False,True,12.0
+429790,AdventureQuest 3D,Very Positive,80,0.0,True,True,False,True,48.0
+431240,Golf With Your Friends,Very Positive,89,15.0,True,True,True,True,503.0
+445220,Avorion,Very Positive,90,12.49,True,True,True,True,108.0
+450860,Andarilho,Mixed,67,4.99,True,False,False,True,9.0
+454120,Starbase,Mixed,62,11.89,True,False,False,True,54.0
+454350,Days of War: Definitive Edition,Mixed,50,24.99,True,False,False,True,13.0
+465100,LUNA The Shadow Dust,Very Positive,90,19.99,True,True,True,True,44.0
+465200,Fury Unleashed,Very Positive,88,19.99,True,True,True,True,66.0
+466630,The Pedestrian,Overwhelmingly Positive,97,19.99,True,True,True,True,98.0
+469600,Legion TD 2 - Multiplayer Tower Defense,Very Positive,86,22.99,True,True,False,True,79.0
+470310,TROUBLESHOOTER: Abandoned Children,Very Positive,94,24.99,True,False,False,True,100.0
+471710,Rec Room,Very Positive,91,0.0,True,False,False,True,257.0
+473950,Manifold Garden,Overwhelmingly Positive,95,19.99,True,False,False,True,95.0
+486860,MMORPG Tycoon 2,Very Positive,87,24.99,True,True,True,True,30.0
+488860,MADNESS: Project Nexus,Overwhelmingly Positive,97,24.99,True,False,False,True,115.0
+491540,The Bus,Mostly Positive,77,34.99,True,False,False,True,23.0
+493520,GTFO,Very Positive,87,40.0,True,False,False,True,637.0
+494430,Praey for the Gods,Very Positive,85,29.99,True,False,False,True,51.0
+495420,State of Decay 2: Juggernaut Edition,Very Positive,83,30.0,True,False,False,True,419.0
+505460,Foxhole,Very Positive,82,30.0,True,False,False,True,218.0
+508440,Totally Accurate Battle Simulator,Overwhelmingly Positive,98,20.0,True,True,False,True,452.0
+508550,Sneak Thief,Mostly Positive,76,14.99,True,False,False,True,8.0
+515960,Martha Is Dead,Very Positive,80,29.99,True,False,False,True,65.0
+520010,Climbey,Very Positive,91,9.99,True,False,False,True,27.0
+520950,DRIFT21,Mostly Positive,75,29.99,True,False,False,True,4.0
+521150,Another Brick in The Mall,Very Positive,83,16.99,True,False,False,True,23.0
+523660,HYPERCHARGE: Unboxed,Very Positive,90,19.99,True,False,True,True,79.0
+524910,Hidden Through Time,Very Positive,93,7.99,True,True,False,True,42.0
+526870,Satisfactory,Overwhelmingly Positive,97,30.0,True,False,False,True,1116.0
+529340,Victoria 3,Mixed,66,50.0,True,True,True,True,0.0
+534380,Dying Light 2 Stay Human,Mostly Positive,79,30.0,True,False,False,True,1023.0
+536270,Ancestors: The Humankind Odyssey,Very Positive,80,39.99,True,False,False,True,86.0
+544810,KARDS - The WWII Card Game,Very Positive,82,0.0,True,False,False,True,117.0
+544920,Darwin Project,Very Positive,81,0.0,True,False,False,True,155.0
+546560,Half-Life: Alyx,Overwhelmingly Positive,98,60.0,True,False,False,True,892.0
+548430,Deep Rock Galactic,Overwhelmingly Positive,97,30.0,True,False,False,True,1766.0
+550320,art of rally,Very Positive,93,24.99,True,True,True,True,50.0
+550840,Fresh Body,Mostly Positive,76,2.49,True,True,False,True,9.0
+552080,IronWolf VR,Overwhelmingly Positive,96,19.99,True,False,False,True,24.0
+553420,TUNIC,Very Positive,92,30.0,True,True,False,True,109.0
+559650,Witch It,Very Positive,89,4.99,True,False,False,True,149.0
+563840,LOST EMBER,Very Positive,88,29.99,True,False,False,True,59.0
+566440,Necromunda: Underhive Wars,Mixed,57,19.99,True,False,False,True,16.0
+567630,Blood of Steel,Mostly Positive,77,0.0,True,False,False,True,28.0
+573090,Stormworks: Build and Rescue,Very Positive,92,25.0,True,True,False,True,148.0
+574980,Them's Fightin' Herds,Very Positive,93,19.99,True,True,True,True,46.0
+577230,Three Kingdoms The Last Warlord,Mostly Positive,71,3.99,True,True,False,True,20.0
+578650,The Outer Worlds,Very Positive,84,30.0,True,False,False,True,355.0
+582330,Warriors: Rise to Glory,Very Positive,80,19.99,True,False,False,True,12.0
+584640,SUPER CHICKEN JUMPER,Overwhelmingly Positive,97,2.99,True,False,False,True,21.0
+585020,Big Bia,Mostly Positive,76,10.49,True,False,False,True,25.0
+589290,Holdfast: Nations At War,Very Positive,90,19.99,True,False,False,True,269.0
+591460,Parkasaurus,Very Positive,94,24.99,True,False,False,True,37.0
+593640,Papetura,Very Positive,92,11.99,True,True,False,True,32.0
+594330,Visage,Very Positive,87,34.99,True,False,False,True,123.0
+595500,Freedom Planet 2,Overwhelmingly Positive,96,24.99,True,False,False,True,0.0
+597170,Clone Drone in the Danger Zone,Overwhelmingly Positive,97,19.99,True,True,False,True,182.0
+597180,Old World,Very Positive,80,40.0,True,True,True,True,20.0
+597820,BIOMUTANT,Mixed,67,39.99,True,False,False,True,224.0
+598060,Slasher's Keep,Very Positive,85,13.99,True,False,False,True,44.0
+598330,SimAirport,Mostly Positive,79,24.99,True,True,True,True,24.0
+598550,HUNTDOWN,Overwhelmingly Positive,95,19.99,True,True,True,True,56.0
+601840,Griftlands,Very Positive,94,10.99,True,True,True,True,259.0
+604540,Empire of Sin,Mixed,49,39.99,True,True,False,True,49.0
+606500,HellSign,Mixed,69,19.99,True,False,False,True,31.0
+606800,Startup Company,Very Positive,81,12.99,True,True,True,True,37.0
+607080,Psychonauts 2,Overwhelmingly Positive,96,60.0,True,True,True,True,230.0
+609920,Hotshot Racing,Mostly Positive,76,19.99,True,False,False,True,23.0
+610370,Desperados III,Overwhelmingly Positive,96,39.99,True,True,True,True,184.0
+611160,Karnage Chronicles,Very Positive,86,24.99,True,False,False,True,24.0
+611360,Video Horror Society,Mixed,65,0.0,True,False,False,True,38.0
+611500,Quake Champions,Mostly Positive,73,0.0,True,False,False,True,302.0
+611790,House Party,Very Positive,87,25.0,True,False,False,True,196.0
+615120,COMPOUND,Overwhelmingly Positive,97,19.99,True,False,False,True,47.0
+615530,Love Money Rock'n'Roll,Very Positive,83,14.99,True,True,True,True,0.0
+616700,Rage of Car Force: Car Crashing Games,Mostly Positive,75,0.0,True,True,True,True,6.0
+616720,Live2DViewerEX,Very Positive,92,4.99,True,True,False,True,25.0
+623280,Dungeons & Dragons: Dark Alliance,Mixed,50,29.99,True,False,False,True,29.0
+625340,XERA: Survival,Mixed,68,0.0,True,False,False,True,45.0
+625960,Stoneshard,Mostly Positive,75,24.99,True,False,True,True,133.0
+627690,Idle Champions of the Forgotten Realms,Mostly Positive,78,0.0,True,True,False,True,92.0
+628670,Hellpoint,Mostly Positive,78,34.99,True,True,True,True,87.0
+629820,Maneater,Very Positive,89,40.0,True,False,False,True,207.0
+632300,Hobo: Tough Life,Very Positive,83,29.99,True,False,True,True,47.0
+632360,Risk of Rain 2,Overwhelmingly Positive,96,25.0,True,False,False,True,1151.0
+636970,Tales Of Glory,Very Positive,81,29.99,True,False,False,True,11.0
+638230,Journey,Very Positive,94,14.99,True,False,False,True,407.0
+638490,Soldat,Very Positive,94,0.0,True,False,False,True,23.0
+638990,UNDYING,Very Positive,86,19.99,True,False,False,True,20.0
+644290,MEMORIES OF MARS,Mixed,62,19.99,True,False,False,True,13.0
+648410,Colony Ship: A Post-Earth Role Playing Game,Very Positive,85,34.99,True,False,False,True,12.0
+648800,Raft,Very Positive,93,20.0,True,False,False,True,509.0
+651150,Quantum League,Mostly Positive,78,9.99,True,False,False,True,9.0
+651670,Star Renegades,Very Positive,84,24.99,True,False,False,True,52.0
+654890,Grand Tactician: The Civil War (1861-1865),Mostly Positive,79,45.0,True,False,False,True,9.0
+656240,Heat,Mixed,49,19.99,True,False,False,True,15.0
+656350,UnderMine,Very Positive,92,19.99,True,True,True,True,115.0
+658920,Half-Life 2: VR Mod,Overwhelmingly Positive,98,0.0,True,False,False,True,0.0
+659540,Warsim: The Realm of Aslona,Overwhelmingly Positive,97,9.99,True,False,False,True,22.0
+661130,ChilloutVR,Very Positive,84,0.0,True,False,False,True,17.0
+662960,Mysteria ~Occult Shadows~,Mixed,67,12.99,True,False,False,True,39.0
+666150,Prehistoric Kingdom,Very Positive,83,29.99,True,False,False,True,11.0
+667610,Ancient Cities,Mixed,61,39.99,True,False,False,True,0.0
+671970,Junkyard Simulator,Mixed,54,17.99,True,False,False,True,13.0
+672630,Academia : School Simulator,Very Positive,85,19.99,True,True,False,True,28.0
+673610,Airport CEO,Very Positive,84,24.99,True,True,False,True,25.0
+674020,World War 3,Mixed,54,0.0,True,False,False,True,186.0
+674090,Sky Haven Tycoon - Airport Simulator,Mostly Positive,72,19.49,True,False,False,True,5.0
+674140,Bugsnax,Overwhelmingly Positive,97,24.99,True,True,False,True,48.0
+674500,Total Tank Simulator,Very Positive,80,7.99,True,False,False,True,48.0
+674930,Boyfriend Dungeon,Very Positive,91,19.99,True,True,True,True,14.0
+680420,OUTRIDERS,Mixed,65,39.99,True,False,False,True,522.0
+682990,Drug Dealer Simulator,Very Positive,87,19.99,True,False,False,True,126.0
+684450,Surviving the Aftermath,Mostly Positive,72,29.99,True,False,False,True,46.0
+686810,Hell Let Loose,Very Positive,84,29.0,True,False,False,True,638.0
+690040,SUPERHOT: MIND CONTROL DELETE,Very Positive,86,24.99,True,True,True,True,243.0
+691260,POPULATION: ONE,Very Positive,85,29.99,True,False,False,True,53.0
+692890,Roboquest,Very Positive,94,19.99,True,False,False,True,125.0
+694280,Zombie Army 4: Dead War,Very Positive,85,10.0,True,False,False,True,84.0
+696220,Folklore Hunter,Mostly Positive,76,11.99,True,False,False,True,6.0
+698670,Scorn,Mostly Positive,76,16.0,True,False,False,True,0.0
+699130,World War Z,Very Positive,83,30.0,True,False,False,True,175.0
+700600,Evil Genius 2: World Domination,Mixed,67,39.99,True,False,False,True,102.0
+704030,Professional Farmer: Cattle and Crops,Mixed,68,19.99,True,False,True,True,4.0
+707030,POSTAL 4: No Regerts,Mostly Positive,74,19.99,True,False,False,True,184.0
+708720,Gridiron,Very Positive,80,0.0,True,False,False,True,11.0
+712190,Genesis Alpha One Deluxe Edition,Mostly Positive,73,19.99,True,False,False,True,32.0
+715400,Frozen Flame,Mixed,67,29.99,True,False,False,True,0.0
+719040,Wasteland 3,Very Positive,84,39.99,True,True,True,True,207.0
+720560,Vigil: The Longest Night,Very Positive,87,21.99,True,False,False,True,67.0
+720620,TaleSpire,Very Positive,93,25.0,True,True,False,True,28.0
+722180,SURV1V3,Very Positive,83,24.99,True,False,False,True,19.0
+725270,Necrobarista,Very Positive,84,19.99,True,False,False,True,22.0
+725480,Slap City,Overwhelmingly Positive,95,19.99,True,False,False,True,39.0
+726110,Overcrowd: A Commute 'Em Up,Very Positive,83,19.99,True,False,False,True,14.0
+726840,City Game Studio: a tycoon about game dev,Very Positive,88,15.99,True,True,True,True,17.0
+727850,ELDERBORN,Very Positive,88,14.99,True,False,False,True,71.0
+729000,Wytchwood,Very Positive,93,7.99,True,True,False,True,27.0
+730390,Raji: An Ancient Epic,Very Positive,86,24.99,True,False,False,True,35.0
+732050,Voxel Tycoon,Very Positive,84,24.99,True,True,True,True,18.0
+735290,Genesis Noir,Very Positive,80,5.99,True,True,False,True,33.0
+736820,Knights of Honor II: Sovereign,Mostly Positive,76,44.99,True,False,False,True,0.0
+738510,メモリーズオフ-Innocent Fille-,Very Positive,90,15.99,True,False,False,True,15.0
+738520,Breathedge,Very Positive,84,24.99,True,False,False,True,152.0
+739630,Phasmophobia,Overwhelmingly Positive,96,14.0,True,False,False,True,773.0
+739650,Drake Hollow,Mostly Positive,78,29.99,True,False,False,True,32.0
+740130,Tales of Arise,Very Positive,89,59.99,True,False,False,True,464.0
+745920,Temtem,Very Positive,83,45.0,True,False,False,True,246.0
+746850,Cloudpunk,Very Positive,89,19.99,True,False,False,True,191.0
+747200,Keplerth,Very Positive,85,14.99,True,False,False,True,58.0
+747660,Five Nights at Freddy's: Security Breach,Very Positive,86,40.0,True,False,False,True,192.0
+750130,The Sinking City,Mostly Positive,72,39.99,True,False,False,True,33.0
+751630,After the Fall®,Mostly Positive,77,29.99,True,False,False,True,51.0
+753640,Outer Wilds,Overwhelmingly Positive,95,25.0,True,False,False,True,552.0
+753650,Due Process,Very Positive,84,14.99,True,False,False,True,133.0
+757310,Sable,Very Positive,87,24.99,True,False,False,True,35.0
+757320,Atomicrops,Very Positive,93,14.99,True,False,False,True,86.0
+758870,Kynseed,Very Positive,80,24.99,True,False,False,True,15.0
+760160,Vampire: The Masquerade - Bloodhunt,Mostly Positive,72,0.0,True,False,False,True,311.0
+760650,Hammerting,Mixed,62,24.99,True,False,False,True,18.0
+761830,Mr. Prepper,Very Positive,83,19.99,True,True,False,True,34.0
+763890,Wildermyth,Overwhelmingly Positive,95,24.99,True,True,True,True,240.0
+765810,Mars Horizon,Very Positive,84,19.99,True,True,False,True,30.0
+766570,Russian Fishing 4,Mostly Positive,75,0.0,True,False,False,True,60.0
+768520,Red Solstice 2: Survivors,Mostly Positive,71,29.99,True,False,False,True,44.0
+773370,Exo One,Very Positive,90,6.79,True,False,False,True,50.0
+773790,Ostriv,Very Positive,93,24.99,True,False,False,True,23.0
+774181,Rhythm Doctor,Overwhelmingly Positive,98,15.99,True,True,True,True,264.0
+774791,Surgeon Simulator 2,Mixed,69,19.99,True,False,False,True,13.0
+775500,SCARLET NEXUS,Very Positive,84,14.99,True,False,False,True,231.0
+777130,Blush Blush,Very Positive,87,0.0,True,True,True,True,44.0
+780290,Gloomhaven,Very Positive,86,35.0,True,True,False,True,88.0
+780310,The Riftbreaker,Very Positive,91,18.0,True,False,False,True,215.0
+782330,DOOM Eternal,Very Positive,91,40.0,True,False,False,True,1582.0
+784080,MechWarrior 5: Mercenaries,Very Positive,83,30.0,True,False,False,True,89.0
+785770,Emergency Call 112 – The Fire Fighting Simulation 2,Mixed,57,29.99,True,False,False,True,5.0
+785790,WHAT THE GOLF?,Very Positive,93,7.99,True,True,True,True,89.0
+787810,Rogue Heroes: Ruins of Tasos,Mostly Positive,79,19.99,True,False,False,True,41.0
+788100,Neon Abyss,Very Positive,88,19.99,True,False,False,True,214.0
+793460,112 Operator,Very Positive,89,24.99,True,True,False,True,68.0
+794260,Outward Definitive Edition,Mostly Positive,73,10.0,True,False,False,True,250.0
+795420,The Darkside Detective: A Fumble in the Dark,Overwhelmingly Positive,96,14.99,True,True,True,True,21.0
+798490,Othercide,Very Positive,83,29.99,True,False,False,True,52.0
+799600,Cosmoteer: Starship Architect & Commander,Overwhelmingly Positive,95,20.0,True,False,False,True,0.0
+799640,Dungeon Munchies,Overwhelmingly Positive,97,19.99,True,True,False,True,54.0
+803050,Per Aspera,Mostly Positive,75,29.99,True,False,False,True,59.0
+803330,Destroy All Humans!,Very Positive,93,7.49,True,False,False,True,270.0
+804270,Chex Quest HD,Very Positive,81,0.0,True,True,False,True,34.0
+805590,ARMORED HEAD,Overwhelmingly Positive,99,4.99,True,False,False,True,30.0
+807120,Iratus: Lord of the Dead,Very Positive,85,29.99,True,True,True,True,96.0
+811320,Jupiter Hell,Very Positive,91,24.99,True,True,True,True,34.0
+814370,Monster Sanctuary,Very Positive,92,6.79,True,True,True,True,139.0
+817840,Max Gentlemen Sexy Business!,Very Positive,92,19.99,True,True,False,True,17.0
+821880,Idol Manager,Very Positive,88,19.99,True,True,True,True,49.0
+823950,Re:Legend,Mixed,59,24.99,True,False,False,True,12.0
+824000,Hokko Life,Mostly Positive,73,6.79,True,False,False,True,20.0
+824550,SD GUNDAM BATTLE ALLIANCE,Mixed,62,59.99,True,False,False,True,0.0
+826630,Iron Harvest,Mostly Positive,74,30.0,True,False,False,True,124.0
+826940,Maid of Sker,Very Positive,80,8.49,True,False,False,True,42.0
+829280,Kaze and the Wild Masks,Overwhelmingly Positive,96,19.99,True,False,False,True,16.0
+829590,CryoFall,Very Positive,80,19.99,True,False,False,True,73.0
+830820,Jets'n'Guns 2,Very Positive,91,15.99,True,False,False,True,19.0
+833360,Star Valor,Very Positive,89,24.99,True,False,False,True,9.0
+837470,Untitled Goose Game,Overwhelmingly Positive,95,20.0,True,True,False,True,206.0
+838630,Deadliest Catch: The Game,Mixed,52,19.99,True,False,False,True,9.0
+839770,Phoenix Point,Mostly Positive,72,24.99,True,True,False,True,53.0
+839910,Mythgard,Very Positive,86,0.0,True,True,False,True,16.0
+840140,武侠乂 The Swordsmen X,Mixed,46,24.99,True,False,False,True,6.0
+841190,Honey I Joined a Cult,Mostly Positive,78,13.19,True,False,False,True,21.0
+842180,Prison Simulator,Very Positive,87,19.99,True,False,False,True,36.0
+843380,Super Animal Royale,Very Positive,94,0.0,True,True,False,True,311.0
+843810,A Perfect Day,Very Positive,85,19.99,True,True,False,True,19.0
+845890,Moonbreaker,Very Positive,87,30.0,True,True,False,True,0.0
+846770,DYSMANTLE,Very Positive,91,9.0,True,True,False,True,115.0
+848450,Subnautica: Below Zero,Very Positive,91,30.0,True,True,False,True,521.0
+848480,Creeper World 4,Overwhelmingly Positive,95,24.99,True,False,False,True,49.0
+851850,DRAGON BALL Z: KAKAROT,Very Positive,93,60.0,True,False,False,True,304.0
+852220,Accident,Mostly Positive,78,14.99,True,False,False,True,25.0
+858260,Until You Fall,Very Positive,94,15.99,True,False,False,True,73.0
+858820,Tribes of Midgard,Mostly Positive,76,20.0,True,False,False,True,175.0
+860510,Little Nightmares II,Very Positive,94,30.0,True,False,False,True,369.0
+860890,Factory Town,Very Positive,91,7.99,True,True,False,True,51.0
+861250,Cyber Shadow,Very Positive,83,19.99,True,True,True,True,23.0
+861650,Session: Skate Sim,Very Positive,85,39.99,True,False,False,True,63.0
+865540,PLAYNE : The Meditation Game,Overwhelmingly Positive,96,14.99,True,False,False,True,11.0
+865610,Backbone,Mixed,63,24.99,True,True,False,True,14.0
+867210,Songs of Conquest,Very Positive,87,29.99,True,True,False,True,83.0
+868270,The Cycle: Frontier,Mixed,61,0.0,True,False,False,True,157.0
+869480,Jabroni Brawl: Episode 3,Very Positive,91,0.0,True,False,True,True,0.0
+869880,Cyanide & Happiness - Freakpocalypse (Episode 1),Mixed,55,19.99,True,True,True,True,15.0
+870780,Control Ultimate Edition,Very Positive,88,9.99,True,False,False,True,747.0
+871980,Digimon Survive,Very Positive,81,59.99,True,False,False,True,0.0
+872200,Rogue Company,Mostly Positive,75,0.0,True,False,False,True,179.0
+872410,ROMANCE OF THE THREE KINGDOMS XIV,Mixed,60,59.99,True,False,False,True,30.0
+872670,SCP: 5K,Very Positive,83,20.0,True,False,False,True,31.0
+873840,Truck and Logistics Simulator,Mostly Positive,70,19.99,True,False,False,True,17.0
+874260,The Forgotten City,Overwhelmingly Positive,96,24.99,True,False,False,True,158.0
+874390,The Battle of Polytopia,Overwhelmingly Positive,95,14.99,True,True,True,True,36.0
+875210,Kingdom Heroes 8,Mixed,55,29.99,True,False,False,True,37.0
+876160,Occupy White Walls,Very Positive,92,0.0,True,False,False,True,19.0
+876650,Aground,Very Positive,94,14.99,True,True,True,True,21.0
+877280,SAO Utils 2: Progressive,Very Positive,92,0.0,True,False,False,True,9.0
+881100,Noita,Overwhelmingly Positive,95,20.0,True,False,False,True,531.0
+882100,XCOM®: Chimera Squad,Mostly Positive,72,2.99,True,False,False,True,229.0
+885970,Total War: ROME REMASTERED,Mostly Positive,74,29.99,True,True,True,True,48.0
+886900,Chef: A Restaurant Tycoon Game,Mostly Positive,73,19.99,True,False,False,True,22.0
+887570,NEBULOUS: Fleet Command,Very Positive,92,19.99,True,False,False,True,20.0
+890550,RUMBLE,Very Positive,85,20.0,True,False,False,True,0.0
+890720,In Other Waters,Very Positive,90,4.49,True,True,False,True,37.0
+892970,Valheim,Overwhelmingly Positive,95,20.0,True,False,True,True,482.0
+893850,THE LONGING,Very Positive,92,14.99,True,True,True,True,68.0
+894020,Death's Door,Very Positive,93,19.99,True,False,False,True,244.0
+894940,Littlewood,Very Positive,93,14.99,True,True,True,True,74.0
+895110,Magical Battle Cry,Mixed,68,19.99,True,False,False,True,3.0
+895400,Deadside,Mostly Positive,78,19.99,True,False,False,True,176.0
+895620,Spellcaster University,Very Positive,84,24.99,True,True,False,True,36.0
+895870,Project Wingman,Very Positive,94,24.99,True,False,False,True,174.0
+897220,Summer Pockets,Overwhelmingly Positive,98,44.99,True,False,False,True,27.0
+897450,The Survivalists,Mostly Positive,76,6.24,True,False,False,True,70.0
+897730,Among Trees,Mostly Positive,70,14.99,True,False,False,True,14.0
+898750,Super Robot Wars 30,Very Positive,88,59.99,True,False,False,True,43.0
+898920,Axis & Allies 1942 Online,Mostly Positive,77,19.99,True,True,True,True,8.0
+900040,ELEX II,Mostly Positive,75,24.99,True,False,False,True,50.0
+903950,Last Oasis,Mixed,64,29.99,True,False,False,True,90.0
+906100,Observation,Mostly Positive,79,24.99,True,False,False,True,77.0
+906870,FurryFury: Smash & Roll,Very Positive,82,0.0,True,False,False,True,13.0
+907650,Stronghold: Warlords,Mixed,65,39.99,True,False,False,True,21.0
+908100,九州：商旅（Nine Provinces: Caravan）,Very Positive,91,8.99,True,False,False,True,14.0
+909320,Ruinarch,Mostly Positive,79,24.99,True,False,False,True,21.0
+909660,Vagrus - The Riven Realms,Very Positive,84,21.59,True,True,True,True,12.0
+910490,Killsquad,Mostly Positive,72,29.99,True,False,False,True,47.0
+911430,Good Company,Mostly Positive,75,24.99,True,False,False,True,16.0
+913740,WORLD OF HORROR,Very Positive,94,14.99,True,True,False,True,95.0
+914010,Train Station Renovation,Very Positive,84,18.99,True,False,False,True,50.0
+914800,Coffee Talk,Overwhelmingly Positive,95,7.79,True,True,False,True,123.0
+915310,SNKRX,Overwhelmingly Positive,95,2.99,True,False,False,True,74.0
+915320,Pixel Strike 3D,Mostly Positive,74,0.0,True,False,False,True,57.0
+915810,Midnight Ghost Hunt,Very Positive,81,19.99,True,False,False,True,81.0
+916840,The Walking Dead: Saints & Sinners,Very Positive,88,39.99,True,False,False,True,185.0
+917150,Godhood,Mostly Positive,72,26.99,True,False,False,True,9.0
+918570,Century: Age of Ashes,Mostly Positive,74,0.0,True,False,False,True,139.0
+920210,LEGO® Star Wars™: The Skywalker Saga,Very Positive,91,50.0,True,False,False,True,423.0
+921800,Encased: A Sci-Fi Post-Apocalyptic RPG,Mostly Positive,78,4.79,True,False,True,True,55.0
+924970,Back 4 Blood,Mixed,66,60.0,True,False,False,True,383.0
+924980,Trials of Mana,Very Positive,92,49.99,True,False,False,True,100.0
+926140,CHANGE: A Homeless Survival Experience,Very Positive,91,18.99,True,True,True,True,31.0
+926340,Roman's Christmas / 罗曼圣诞探案集,Overwhelmingly Positive,96,10.99,True,True,False,True,32.0
+927350,Hood: Outlaws & Legends,Mixed,52,19.99,True,False,False,True,90.0
+928950,LOEK,Very Positive,93,0.0,True,False,False,True,11.0
+928960,Godfall Ultimate Edition,Mixed,63,13.59,True,False,False,True,43.0
+929490,RAM Pressure,Mixed,48,0.0,True,False,False,True,2.0
+933110,Age of Empires III: Definitive Edition,Very Positive,82,0.0,True,False,False,True,176.0
+933820,Endzone - A World Apart,Mostly Positive,77,29.99,True,False,False,True,102.0
+934580,Hell Wedding 夜嫁,Very Positive,87,0.0,True,False,False,True,23.0
+936790,Life is Strange: True Colors,Very Positive,89,59.99,True,False,False,True,181.0
+937310,Infinitode 2 - Infinite Tower Defense,Very Positive,92,0.0,True,False,False,True,32.0
+938560,INMOST,Very Positive,91,14.99,True,True,False,True,100.0
+939100,Darksburg,Mixed,67,14.99,True,False,False,True,39.0
+939400,LoveChoice,Overwhelmingly Positive,95,1.99,True,True,False,True,69.0
+941460,Death Trash,Overwhelmingly Positive,95,15.99,True,True,True,True,63.0
+945710,DreadOut 2,Mostly Positive,75,19.99,True,False,False,True,30.0
+946050,Soda Dungeon 2,Very Positive,94,0.0,True,True,False,True,85.0
+946720,To The Rescue!,Mixed,68,19.99,True,True,False,True,5.0
+949290,Winkeltje: The Little Shop,Very Positive,91,14.99,True,False,False,True,24.0
+951430,Dead Age 2: The Zombie Survival RPG,Mostly Positive,76,17.99,True,True,True,True,18.0
+953490,CARRION,Very Positive,94,19.99,True,True,True,True,300.0
+953880,First Class Trouble,Mostly Positive,79,3.74,True,False,False,True,67.0
+955050,Bright Memory,Very Positive,91,7.99,True,False,False,True,245.0
+955740,Mini Healer,Overwhelmingly Positive,96,7.99,True,False,False,True,36.0
+955900,Amazing Cultivation Simulator,Very Positive,88,24.99,True,False,False,True,124.0
+956030,Creaks,Overwhelmingly Positive,95,19.99,True,True,False,True,43.0
+957790,War Dust VR: 32v32 Battlefields,Mostly Positive,79,24.99,True,False,False,True,19.0
+958400,Project CARS 3,Mixed,53,59.99,True,False,False,True,30.0
+960170,DJMAX RESPECT V,Very Positive,88,10.0,True,False,False,True,186.0
+960690,One Step From Eden,Very Positive,94,19.99,True,True,True,True,135.0
+960910,Heavy Rain,Very Positive,82,19.99,True,False,False,True,174.0
+960990,Beyond: Two Souls,Very Positive,88,9.99,True,False,False,True,280.0
+961200,Predecessor,Very Positive,81,0.0,True,False,False,True,0.0
+962130,Grounded,Very Positive,89,40.0,True,False,False,True,324.0
+962580,Summer in Mara,Mostly Positive,76,19.99,True,False,False,True,34.0
+962730,Skater XL - The Ultimate Skateboarding Game,Very Positive,86,39.99,True,False,False,True,76.0
+964440,Hell is Others,Mostly Positive,70,14.99,True,False,False,True,0.0
+964800,Prodeus,Very Positive,94,24.99,True,True,False,True,102.0
+965580,Root,Very Positive,91,14.99,True,True,False,True,20.0
+965680,Boomerang Fu,Overwhelmingly Positive,97,5.99,True,False,False,True,32.0
+966430,Neverinth,Mostly Positive,72,15.99,True,False,False,True,18.0
+968250,King of Retail,Very Positive,91,24.99,True,True,False,True,22.0
+968970,Lumberjack's Dynasty,Mostly Positive,73,19.99,True,False,False,True,26.0
+969760,Omno,Very Positive,92,18.99,True,False,False,True,26.0
+969990,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,Overwhelmingly Positive,95,29.99,True,False,False,True,290.0
+970500,秦殇 (Prince of Qin),Mostly Positive,77,0.99,True,False,False,True,30.0
+970830,The Dungeon Of Naheulbeuk: The Amulet Of Chaos,Very Positive,88,34.99,True,True,False,True,53.0
+972660,Spiritfarer®: Farewell Edition,Overwhelmingly Positive,95,29.99,True,True,True,True,392.0
+973230,We Who Are About To Die,Very Positive,89,22.0,True,False,False,True,0.0
+973810,Journey To The Savage Planet,Very Positive,88,29.99,True,False,False,True,129.0
+975370,Dwarf Fortress,Overwhelmingly Positive,95,30.0,True,False,False,True,0.0
+976590,Bus Simulator 21 Next Stop,Mostly Positive,70,34.99,True,False,False,True,27.0
+976620,Enderal: Forgotten Stories (Special Edition),Very Positive,93,0.0,True,False,False,True,60.0
+976890,Hidden Deep,Mostly Positive,79,24.99,True,False,False,True,38.0
+977400,Cell to Singularity - Evolution Never Ends,Very Positive,90,0.0,True,True,False,True,159.0
+977880,Eastward,Very Positive,84,24.99,True,True,False,True,178.0
+978300,Saints Row®: The Third™ Remastered,Mixed,65,39.99,True,False,False,True,31.0
+978460,Emily is Away <3,Very Positive,93,9.99,True,True,False,True,71.0
+978520,Legend of Keepers: Career of a Dungeon Manager,Very Positive,80,19.99,True,True,True,True,78.0
+978780,STORY OF SEASONS: Friends of Mineral Town,Very Positive,94,39.99,True,False,False,True,52.0
+979070,Just Die Already,Very Positive,84,14.99,True,False,False,True,36.0
+979110,Space Haven,Very Positive,87,22.99,True,True,True,True,58.0
+979640,Cepheus Protocol,Very Positive,82,19.99,True,False,False,True,26.0
+979690,The Ascent,Mostly Positive,76,29.99,True,False,False,True,274.0
+980610,Quaver,Very Positive,92,0.0,True,True,True,True,81.0
+981430,Gordian Quest,Very Positive,90,19.99,True,False,False,True,66.0
+981600,Eternium,Very Positive,82,0.0,True,False,False,True,16.0
+982290,Airborne Kingdom,Very Positive,87,24.99,True,True,False,True,17.0
+982720,Paradise Lost,Mostly Positive,70,14.99,True,False,False,True,48.0
+983970,Haven,Very Positive,91,24.99,True,False,False,True,54.0
+985810,GrandChase,Mixed,58,0.0,True,False,False,True,29.0
+985830,SUCCUBUS,Very Positive,80,24.99,True,False,False,True,70.0
+985890,Streets of Rage 4,Very Positive,92,12.0,True,True,True,True,188.0
+987020,DRONE The Game,Mixed,58,19.99,True,False,False,True,12.0
+987840,Expeditions: Rome,Very Positive,88,44.99,True,False,False,True,52.0
+988910,Super Mega Baseball 3,Very Positive,92,44.99,True,False,False,True,17.0
+989440,Phantom Abyss,Very Positive,86,24.99,True,False,False,True,53.0
+990630,The Last Campfire,Overwhelmingly Positive,97,14.99,True,False,False,True,63.0
+991170,Barn Finders,Very Positive,83,19.99,True,False,False,True,70.0
+991270,The Legend of Heroes: Trails of Cold Steel III,Very Positive,93,59.99,True,False,False,True,37.0
+991560,ONE PUNCH MAN: A HERO NOBODY KNOWS,Mixed,51,8.99,True,False,False,True,6.0
+992300,嗜血印 Bloody Spell,Very Positive,89,6.24,True,False,False,True,207.0
+992910,The Black Masses,Mixed,67,19.99,True,False,False,True,13.0
+994140,Lightmatter,Very Positive,91,19.99,True,False,False,True,78.0
+994220,NEOVERSE,Very Positive,84,19.99,True,True,False,True,81.0
+995980,Fae Tactics,Very Positive,86,19.99,True,False,False,True,28.0
+996770,Moving Out,Very Positive,80,24.99,True,False,False,True,41.0
+997010,Police Simulator: Patrol Officers,Very Positive,84,30.0,True,False,False,True,117.0
+997070,Marvel's Avengers - The Definitive Edition,Mixed,67,5.99,True,False,False,True,289.0
+998740,Ring of Pain,Very Positive,91,19.99,True,True,False,True,99.0
+999020,Mega Man Zero/ZX Legacy Collection,Mostly Positive,79,29.99,True,False,False,True,24.0
+999220,Amnesia: Rebirth,Mostly Positive,77,29.99,True,False,True,True,118.0
+999860,Enemy On Board,Mostly Positive,73,19.99,True,False,False,True,15.0
+1000010,Crown Trick,Very Positive,86,19.99,True,False,False,True,96.0
+1000030,Cook Serve Delicious! 3?!,Overwhelmingly Positive,95,19.99,True,True,False,True,33.0
+1000360,Hellish Quart,Very Positive,92,16.99,True,False,False,True,69.0
+1000760,Foregone,Very Positive,82,19.99,True,False,False,True,26.0
+1003590,Tetris® Effect: Connected,Overwhelmingly Positive,95,40.0,True,False,False,True,137.0
+1004750,WRC 8 FIA World Rally Championship,Mostly Positive,73,29.99,True,False,False,True,12.0
+1007400,Alien Shooter 2 - The Legend,Mixed,49,4.49,True,False,False,True,15.0
+1009290,SWORD ART ONLINE Alicization Lycoris,Mixed,62,59.99,True,False,False,True,39.0
+1009560,The Tenants,Very Positive,83,24.99,True,False,False,True,43.0
+1009850,OVR Advanced Settings,Overwhelmingly Positive,96,0.0,True,False,True,True,42.0
+1011190,SIMULACRA 2,Very Positive,89,7.99,True,False,False,True,28.0
+1012790,Into the Radius VR,Very Positive,94,29.99,True,False,False,True,107.0
+1015140,10 Miles To Safety,Mostly Positive,74,9.99,True,False,False,True,16.0
+1016120,PGA TOUR 2K21,Very Positive,84,59.99,True,False,False,True,49.0
+1016600,Devil Slayer - Raksasi,Very Positive,85,14.99,True,True,False,True,40.0
+1016730,Deck of Ashes,Mostly Positive,72,19.99,True,True,False,True,11.0
+1016800,Chernobylite Enhanced Edition,Very Positive,83,13.0,True,False,False,True,193.0
+1016920,Unrailed!,Very Positive,93,19.99,True,True,True,True,187.0
+1018800,DEEEER Simulator: Your Average Everyday Deer Game,Very Positive,91,14.99,True,False,False,True,30.0
+1018830,Element TD 2 - Tower Defense,Very Positive,91,14.99,True,False,False,True,25.0
+1019310,VirtuaVerse,Very Positive,83,14.99,True,True,True,True,15.0
+1019550,Thief Simulator VR,Mixed,69,19.99,True,False,False,True,18.0
+1021770,Wanba Warriors,Very Positive,91,4.99,True,False,False,True,27.0
+1022310,Warhammer Underworlds: Online,Mostly Positive,71,9.99,True,False,False,True,10.0
+1024380,Second Extinction™,Mostly Positive,73,24.99,True,False,False,True,82.0
+1024650,Port Royale 4,Mixed,57,39.99,True,False,False,True,13.0
+1024890,Sector's Edge,Very Positive,81,0.0,True,False,False,True,36.0
+1025960,BURIED STARS,Very Positive,86,39.99,True,False,False,True,12.0
+1028470,Dis The Game,Mixed,59,0.0,True,True,True,True,1.0
+1029550,Torque Drift,Mostly Positive,75,0.0,True,False,False,True,16.0
+1029690,Sniper Elite 5,Very Positive,80,15.0,True,False,False,True,120.0
+1029780,Going Medieval,Very Positive,89,25.0,True,False,False,True,168.0
+1030210,Torchlight III,Mixed,47,7.99,True,False,False,True,88.0
+1030830,Mafia II: Definitive Edition,Mixed,69,4.49,True,False,False,True,237.0
+1030840,Mafia: Definitive Edition,Very Positive,86,40.0,True,False,False,True,865.0
+1035510,Ultimate Zombie Defense,Very Positive,86,4.99,True,True,False,True,23.0
+1035990,Dialtown: Phone Dating Sim,Overwhelmingly Positive,99,7.99,True,False,False,True,6.0
+1036890,Shadow Warrior 3: Definitive Edition,Mixed,66,39.99,True,False,False,True,88.0
+1037020,ScourgeBringer,Very Positive,90,16.99,True,True,True,True,54.0
+1037130,Dandy Ace,Very Positive,88,19.99,True,True,False,True,32.0
+1038250,DIRT 5,Mixed,59,59.99,True,False,False,True,71.0
+1038370,Trials of Fire,Very Positive,87,9.99,True,False,False,True,82.0
+1040070,Merchant of the Skies,Very Positive,87,14.99,True,True,True,True,11.0
+1040230,Curious Expedition 2,Very Positive,88,8.99,True,False,False,True,47.0
+1040420,Dreamscaper,Very Positive,89,24.99,True,False,False,True,62.0
+1041720,Kingdoms of Amalur: Re-Reckoning,Mostly Positive,76,39.99,True,False,False,True,70.0
+1041920,If Found...,Very Positive,92,12.99,True,True,False,True,34.0
+1042490,Call of the Sea,Very Positive,90,19.99,True,False,False,True,83.0
+1043260,Gladiator Guild Manager,Very Positive,83,9.99,True,True,False,True,48.0
+1044720,Farthest Frontier,Very Positive,85,30.0,True,False,False,True,0.0
+1045720,The Coma 2: Vicious Sisters,Overwhelmingly Positive,96,14.99,True,True,True,True,50.0
+1046470,Deep the Game,Mostly Positive,76,0.0,True,False,False,True,7.0
+1048370,Idle Skilling,Mostly Positive,73,0.0,True,False,False,True,0.0
+1049100,泡沫冬景,Overwhelmingly Positive,95,14.99,True,False,False,True,72.0
+1049410,Superliminal,Very Positive,94,19.99,True,True,True,True,460.0
+1049890,Little Witch Nobeta,Very Positive,84,15.0,True,False,False,True,108.0
+1051690,Nightmare Reaper,Very Positive,94,24.99,True,False,False,True,81.0
+1052990,A Monster's Expedition,Overwhelmingly Positive,95,19.99,True,True,True,True,22.0
+1054490,Wingspan,Very Positive,94,19.99,True,True,False,True,65.0
+1054510,Survivalist: Invisible Strain,Very Positive,89,4.89,True,False,False,True,24.0
+1056600,Home Sweet Home : Survive,Mixed,56,6.99,True,False,False,True,45.0
+1056640,Phantasy Star Online 2 New Genesis,Mostly Positive,71,0.0,True,False,False,True,171.0
+1057090,Ori and the Will of the Wisps,Overwhelmingly Positive,96,29.99,True,False,False,True,857.0
+1057750,The Suicide of Rachel Foster,Mostly Positive,70,17.99,True,False,False,True,97.0
+1058380,Streamer Daily,Very Positive,88,14.99,True,False,False,True,8.0
+1058450,MY HERO ONE'S JUSTICE 2,Very Positive,89,11.99,True,False,False,True,22.0
+1058650,Beyond The Wire,Mostly Positive,72,9.99,True,False,False,True,89.0
+1058770,我来自江湖 From Jianghu,Mostly Positive,78,6.99,True,False,False,True,19.0
+1059120,Kinoko,Very Positive,84,0.0,True,False,False,True,16.0
+1059980,Just King,Very Positive,92,3.99,True,False,False,True,3.0
+1059990,Trombone Champ,Overwhelmingly Positive,98,14.99,True,True,False,True,0.0
+1060230,Sapiens,Very Positive,85,24.99,True,True,False,True,4.0
+1061100,Hunter's Arena: Legends,Mixed,62,19.99,True,False,False,True,7.0
+1061910,Metal: Hellsinger,Overwhelmingly Positive,97,29.99,True,False,False,True,0.0
+1062090,Timberborn,Overwhelmingly Positive,95,25.0,True,True,False,True,135.0
+1062110,UNSIGHTED,Very Positive,94,19.99,True,False,False,True,24.0
+1062160,Poly Bridge 2,Overwhelmingly Positive,95,14.99,True,True,True,True,56.0
+1062520,Dinkum,Very Positive,94,20.0,True,False,False,True,70.0
+1062830,Embr,Very Positive,87,19.99,True,False,False,True,40.0
+1062960,Under the Sand REDUX - a road trip game,Mixed,69,9.99,True,False,False,True,8.0
+1063660,Bendy and the Dark Revival,Overwhelmingly Positive,95,29.99,True,False,False,True,0.0
+1063730,New World,Mostly Positive,70,40.0,True,False,False,True,822.0
+1064460,Murder House,Overwhelmingly Positive,96,11.99,True,False,False,True,40.0
+1065310,Evil West,Mostly Positive,74,50.0,True,False,False,True,0.0
+1066130,Truck Life,Mixed,59,19.99,True,False,False,True,9.0
+1066890,Automobilista 2,Very Positive,90,40.0,True,False,True,True,24.0
+1067540,Röki,Very Positive,92,19.99,True,True,False,True,61.0
+1069640,This Land Is My Land,Mostly Positive,71,29.99,True,False,False,True,23.0
+1069650,Ultimate Admiral: Age of Sail,Mostly Positive,79,29.99,True,False,False,True,20.0
+1069690,Rogue Lords,Mostly Positive,73,24.99,True,False,False,True,12.0
+1071870,Biped,Very Positive,87,14.99,True,False,False,True,90.0
+1072040,Panzer Corps 2,Very Positive,83,19.99,True,False,False,True,16.0
+1072500,AO Tennis 2,Mostly Positive,70,49.99,True,False,False,True,8.0
+1072710,Soviet Jump Game,Very Positive,82,0.0,True,True,False,True,20.0
+1073910,Before We Leave,Mostly Positive,79,19.99,True,True,False,True,31.0
+1074070,Dust to the End,Very Positive,80,11.99,True,False,False,True,17.0
+1075190,A Game of Thrones: The Board Game - Digital Edition,Mostly Positive,72,19.99,True,True,False,True,7.0
+1075740,Banners of Ruin,Very Positive,80,19.99,True,False,False,True,41.0
+1076200,Roguebook,Very Positive,84,24.99,True,True,True,True,44.0
+1076500,Valgrave: Immortal Plains,Very Positive,83,0.0,True,False,False,True,8.0
+1077520,The Light Remake,Very Positive,89,4.99,True,False,False,True,32.0
+1078350,Ambrosia,Very Positive,93,11.24,True,False,False,True,27.0
+1078730,Soccer Manager 2020,Mostly Positive,76,0.0,True,False,False,True,2.0
+1078760,Motorcycle Mechanic Simulator 2021,Mostly Positive,76,19.99,True,False,False,True,18.0
+1078920,Main Assembly,Very Positive,89,19.99,True,False,False,True,14.0
+1079260,Fireworks Mania - An Explosive Simulator,Overwhelmingly Positive,96,9.59,True,False,False,True,27.0
+1080020,Electrician Simulator,Very Positive,80,17.99,True,False,False,True,0.0
+1082430,Before Your Eyes,Overwhelmingly Positive,97,9.99,True,True,False,True,196.0
+1084600,My Time at Sandrock,Very Positive,86,20.0,True,False,False,True,101.0
+1084640,Chicken Police - Paint it RED!,Overwhelmingly Positive,96,19.99,True,True,False,True,51.0
+1088150,Scribble It!,Very Positive,85,0.0,True,True,True,True,70.0
+1088710,Yakuza 3 Remastered,Very Positive,81,19.99,True,False,False,True,182.0
+1088790,Rebel Inc: Escalation,Very Positive,83,14.99,True,True,False,True,65.0
+1088850,Marvel's Guardians of the Galaxy,Very Positive,94,17.99,True,False,False,True,544.0
+1089090,ONE PIECE: PIRATE WARRIORS 4,Very Positive,92,9.0,True,False,False,True,107.0
+1089630,奇迹一刻 Surmount,Very Positive,93,14.99,True,False,False,True,26.0
+1089830,Monster Energy Supercross - The Official Videogame 3,Very Positive,87,24.99,True,False,False,True,4.0
+1089980,The Henry Stickmin Collection,Overwhelmingly Positive,98,7.0,True,True,False,True,406.0
+1090630,Granblue Fantasy: Versus,Very Positive,82,19.99,True,False,False,True,76.0
+1091500,Cyberpunk 2077,Very Positive,80,60.0,True,False,False,True,2656.0
+1092630,Rogue Glitch,Very Positive,94,0.0,True,True,False,True,15.0
+1092790,Inscryption,Overwhelmingly Positive,97,20.0,True,True,True,True,1021.0
+1094520,Sands of Salzaar,Very Positive,83,14.99,True,False,False,True,174.0
+1096530,Solasta: Crown of the Magister,Very Positive,88,30.0,True,True,False,True,140.0
+1096900,RPG Maker MZ,Very Positive,83,80.0,True,True,False,True,12.0
+1097130,Circuit Superstars,Very Positive,88,19.99,True,False,False,True,17.0
+1097200,Twelve Minutes,Mostly Positive,73,24.99,True,False,False,True,138.0
+1097350,Weird West: Definitive Edition,Mostly Positive,77,39.99,True,False,False,True,66.0
+1097430,Book of Yog Idle RPG,Mixed,64,0.0,True,False,False,True,0.0
+1099410,A Total War Saga: TROY,Mostly Positive,71,49.99,True,True,False,True,31.0
+1100260,Circle Empires Rivals,Very Positive,90,14.99,True,False,False,True,26.0
+1100410,Commandos 2 - HD Remaster,Mixed,56,19.99,True,True,True,True,10.0
+1100930,LEGIONCRAFT,Very Positive,80,9.79,True,False,False,True,18.0
+1100990,Aimbeast,Very Positive,92,4.99,True,False,False,True,9.0
+1101190,Dungeon Defenders: Awakened,Mixed,68,29.99,True,False,False,True,30.0
+1101790,War Mongrels,Mixed,67,44.99,True,False,False,True,15.0
+1102130,Florence,Very Positive,93,5.99,True,True,False,True,218.0
+1102190,Monster Train,Overwhelmingly Positive,96,24.99,True,False,False,True,280.0
+1104280,The Slormancer,Very Positive,80,14.99,True,False,False,True,48.0
+1104330,Founders' Fortune,Very Positive,83,21.99,True,True,False,True,21.0
+1104380,The Room VR: A Dark Matter,Overwhelmingly Positive,97,29.99,True,False,False,True,57.0
+1104450,Bombergrounds: Reborn,Very Positive,88,0.0,True,True,False,True,36.0
+1105500,Yakuza 4 Remastered,Very Positive,92,19.99,True,False,False,True,145.0
+1105510,Yakuza 5 Remastered,Very Positive,90,19.99,True,False,False,True,126.0
+1106530,GemCraft - Frostborn Wrath,Very Positive,88,12.99,True,False,False,True,20.0
+1106840,Hydroneer,Very Positive,87,14.99,True,False,False,True,107.0
+1107790,The Complex,Mostly Positive,77,4.93,True,True,False,True,60.0
+1108370,Ratropolis,Very Positive,88,17.99,True,True,False,True,69.0
+1108590,Eldest Souls,Very Positive,80,19.99,True,False,False,True,46.0
+1109570,Word Game,Very Positive,94,34.99,True,True,True,True,58.0
+1109680,Regiments,Very Positive,87,29.99,True,False,False,True,0.0
+1110910,Mortal Shell,Mostly Positive,72,4.0,True,False,False,True,70.0
+1111370,A Summer's End - Hong Kong 1986,Overwhelmingly Positive,96,14.99,True,True,True,True,20.0
+1111460,小白兔电商~Bunny e-Shop,Overwhelmingly Positive,95,10.99,True,False,False,True,117.0
+1112890,Calico,Very Positive,90,8.39,True,True,False,True,42.0
+1113000,Persona 4 Golden,Overwhelmingly Positive,97,19.99,True,False,False,True,489.0
+1113120,IXION,Mostly Positive,74,35.0,True,False,False,True,0.0
+1113560,NieR Replicant™ ver.1.22474487139...,Very Positive,88,59.99,True,False,False,True,393.0
+1113570,Voice of Cards: The Isle Dragon Roars,Very Positive,81,29.99,True,False,False,True,14.0
+1114070,My Child Lebensborn,Very Positive,93,7.99,True,False,False,True,18.0
+1114220,Gedonia,Very Positive,90,14.99,True,False,False,True,21.0
+1114940,I Wanna Maker,Overwhelmingly Positive,95,0.0,True,False,False,True,28.0
+1115050,Will You Snail?,Overwhelmingly Positive,98,14.99,True,False,False,True,27.0
+1115690,Yes Your Grace,Very Positive,85,19.99,True,True,False,True,95.0
+1116580,Shady Part of Me,Very Positive,94,14.99,True,False,False,True,35.0
+1116880,The Heroic Legend of Eagarlnia,Very Positive,86,12.99,True,False,False,True,16.0
+1117390,Snowdrop Escape,Very Positive,89,0.0,True,False,False,True,30.0
+1118240,Lake,Very Positive,86,19.99,True,False,False,True,55.0
+1118310,RetroArch,Very Positive,90,0.0,True,False,True,True,79.0
+1119700,As Far As The Eye,Mostly Positive,75,24.99,True,True,True,True,26.0
+1119730,Ranch Simulator - Build Farm Hunt,Very Positive,85,24.99,True,False,False,True,72.0
+1119980,In Sound Mind,Overwhelmingly Positive,95,34.99,True,False,False,True,42.0
+1120320,Builder Simulator,Mostly Positive,76,19.99,True,False,False,True,11.0
+1120810,Eastern Exorcist,Very Positive,85,17.99,True,False,False,True,83.0
+1121420,Kingdom Under Fire: The Crusaders,Very Positive,91,19.99,True,False,False,True,13.0
+1121640,The Wandering Village,Very Positive,89,19.0,True,True,True,True,0.0
+1122680,The Artful Escape,Very Positive,93,19.99,True,False,False,True,35.0
+1123050,GRIME,Very Positive,86,24.99,True,True,False,True,89.0
+1123450,Chicory: A Colorful Tale,Overwhelmingly Positive,97,19.99,True,True,False,True,46.0
+1123770,Curse of the Dead Gods,Very Positive,86,19.99,True,False,False,True,145.0
+1123830,Farm Manager 2021,Mostly Positive,79,19.99,True,False,False,True,17.0
+1124180,Rail Route,Very Positive,94,15.99,True,True,True,True,6.0
+1124300,HUMANKIND™,Mixed,66,50.0,True,True,False,True,214.0
+1125240,Ancient Dungeon,Overwhelmingly Positive,96,19.99,True,False,False,True,30.0
+1126310,风信楼,Very Positive,93,11.99,True,True,True,True,40.0
+1127460,Mod and Play,Mixed,47,2.99,True,False,False,True,13.0
+1127500,Mini Motorways,Overwhelmingly Positive,95,10.0,True,True,False,True,206.0
+1127840,Landlord's Super,Very Positive,90,19.99,True,False,False,True,13.0
+1128810,RISK: Global Domination,Very Positive,81,0.0,True,True,False,True,166.0
+1129190,Our Life: Beginnings & Always,Overwhelmingly Positive,98,0.0,True,False,True,True,27.0
+1129310,Receiver 2,Very Positive,91,19.99,True,True,True,True,65.0
+1129580,Medieval Dynasty,Very Positive,90,35.0,True,False,False,True,189.0
+1130410,Cyber Hook,Overwhelmingly Positive,96,14.99,True,False,False,True,60.0
+1131080,Deadswitch 3,Mostly Positive,74,0.0,True,False,False,True,19.0
+1131190,NERTS! Online,Very Positive,94,0.0,True,True,True,True,20.0
+1131240,Dungeons of Edera,Mostly Positive,73,14.99,True,False,False,True,22.0
+1131620,Dominion,Very Positive,90,0.0,True,False,False,True,8.0
+1131720,PROP AND SEEK®,Very Positive,81,0.0,True,False,False,True,29.0
+1133760,CHRONO CROSS: THE RADICAL DREAMERS EDITION,Mixed,59,19.99,True,False,False,True,15.0
+1134100,Frozenheim,Mostly Positive,72,19.99,True,False,False,True,19.0
+1134700,Wild Terra 2: New Lands,Mixed,58,39.99,True,False,False,True,15.0
+1134710,NIMBY Rails,Very Positive,91,16.99,True,False,False,True,8.0
+1135300,King's Bounty II,Mixed,63,39.99,True,False,False,True,36.0
+1135690,Unpacking,Very Positive,92,20.0,True,True,True,True,146.0
+1135810,Vault of the Void,Very Positive,93,17.99,True,False,False,True,33.0
+1135830,Brave Alchemist Colette,Very Positive,90,17.49,True,False,False,True,15.0
+1136370,Bear and Breakfast,Very Positive,90,19.99,True,False,False,True,0.0
+1136380,Ultimate Fishing Simulator 2,Mostly Positive,76,19.99,True,False,False,True,0.0
+1137300,Sherlock Holmes Chapter One,Mostly Positive,79,44.99,True,False,False,True,39.0
+1137460,ALTF4,Very Positive,82,2.99,True,False,False,True,91.0
+1137750,Farmer's Life,Very Positive,84,14.99,True,False,False,True,12.0
+1138100,Touhou Ibunseki - Ayaria Dawn: ReCreation,Very Positive,84,18.99,True,False,False,True,18.0
+1138660,Black Book,Very Positive,94,12.49,True,True,False,True,84.0
+1138850,Heavenly Bodies,Overwhelmingly Positive,96,19.99,True,True,False,True,27.0
+1139800,Chinatris,Very Positive,87,1.99,True,True,False,True,27.0
+1139890,Dictators:No Peace Countryballs,Very Positive,94,0.99,True,True,True,True,40.0
+1139900,Ghostrunner,Very Positive,92,8.99,True,False,False,True,731.0
+1139940,ATOM RPG Trudograd,Very Positive,91,10.99,True,True,True,True,30.0
+1139980,Travellers Rest,Very Positive,91,14.99,True,False,False,True,70.0
+1140270,Monster Prom 2: Monster Camp,Overwhelmingly Positive,97,4.79,True,True,True,True,44.0
+1140290,Murder by Numbers,Very Positive,86,5.09,True,False,False,True,27.0
+1140620,CosmicBreak Universal,Mixed,57,0.0,True,False,False,True,6.0
+1141550,CUCKOLD SIMULATOR: Life as a Beta Male Cuck,Very Positive,94,3.99,True,False,False,True,18.0
+1142710,Total War: WARHAMMER III,Mixed,62,60.0,True,True,True,True,268.0
+1143810,Black Skylands,Very Positive,87,19.99,True,False,False,True,36.0
+1144200,Ready or Not,Very Positive,91,40.0,True,False,False,True,781.0
+1144400,Senren＊Banka,Overwhelmingly Positive,99,34.99,True,False,False,True,180.0
+1145360,Hades,Overwhelmingly Positive,98,25.0,True,True,False,True,1927.0
+1145660,Drift Of The Hill,Mostly Positive,71,0.37,True,False,False,True,6.0
+1145960,The White Door,Very Positive,93,3.99,True,True,False,True,115.0
+1146310,Beyond a Steel Sky,Very Positive,88,34.99,True,False,True,True,20.0
+1146630,Yokai's Secret,Very Positive,90,1.99,True,False,False,True,121.0
+1146970,My Vow to My Liege,Very Positive,94,9.99,True,True,False,True,17.0
+1147550,Not For Broadcast,Very Positive,94,24.99,True,False,False,True,167.0
+1147560,Skul: The Hero Slayer,Very Positive,93,11.99,True,True,True,True,285.0
+1148590,DOOM 64,Very Positive,94,4.99,True,False,False,True,160.0
+1148760,I Was a Teenage Exocolonist,Overwhelmingly Positive,97,24.99,True,True,True,True,0.0
+1149440,Dragon Marked For Death,Mostly Positive,78,19.99,True,False,False,True,19.0
+1149460,ICARUS,Mixed,68,35.0,True,False,False,True,186.0
+1149550,Utawarerumono: Mask of Deception,Very Positive,92,39.99,True,False,False,True,34.0
+1149620,Gas Station Simulator,Very Positive,87,14.0,True,True,False,True,170.0
+1150080,Azur Lane Crosswave,Mixed,68,39.99,True,False,False,True,73.0
+1150590,Samurai Jack: Battle Through Time,Very Positive,85,39.99,True,False,False,True,36.0
+1150640,Yu-Gi-Oh! Legacy of the Duelist : Link Evolution,Very Positive,81,39.99,True,False,False,True,38.0
+1150690,OMORI,Overwhelmingly Positive,97,20.0,True,True,False,True,375.0
+1150760,Gloomwood,Very Positive,94,19.99,True,False,False,True,0.0
+1150950,Timelie,Overwhelmingly Positive,96,17.99,True,True,False,True,56.0
+1151340,Fallout 76,Mostly Positive,75,40.0,True,False,False,True,769.0
+1151440,Utawarerumono: Mask of Truth,Overwhelmingly Positive,96,39.99,True,False,False,True,32.0
+1151450,Utawarerumono: Prelude to the Fallen,Very Positive,93,59.99,True,False,False,True,32.0
+1151640,Horizon Zero Dawn™ Complete Edition,Very Positive,87,50.0,True,False,False,True,1060.0
+1152340,Book of Travels,Very Positive,81,34.99,True,True,True,True,17.0
+1153430,Love wish,Very Positive,80,0.99,True,False,False,True,60.0
+1153640,Chorus,Very Positive,84,11.99,True,False,False,True,43.0
+1154040,SpellForce 3: Fallen God,Very Positive,88,19.99,True,False,False,True,20.0
+1154790,XIII,Mostly Negative,25,29.99,True,False,False,True,13.0
+1154810,Going Under,Very Positive,93,19.99,True,False,False,True,100.0
+1154840,Shadow Empire,Very Positive,85,39.99,True,False,False,True,29.0
+1155970,Roadwarden,Overwhelmingly Positive,96,7.36,True,True,True,True,0.0
+1156990,Return to Shironagasu Island,Overwhelmingly Positive,96,4.99,True,False,False,True,59.0
+1157220,Nebuchadnezzar,Very Positive,81,19.99,True,False,True,True,29.0
+1157390,King Arthur: Knight's Tale,Very Positive,83,44.99,True,False,False,True,48.0
+1158160,Coral Island,Very Positive,91,22.0,True,False,False,True,0.0
+1158310,Crusader Kings III,Very Positive,92,50.0,True,True,True,True,488.0
+1158370,Aragami 2,Mostly Positive,75,14.0,True,False,False,True,34.0
+1158850,The Great Ace Attorney Chronicles,Very Positive,94,39.99,True,False,False,True,92.0
+1158940,Blazing Sails,Very Positive,91,14.99,True,False,False,True,45.0
+1158980,Idle Big Devil,Very Positive,83,0.0,True,True,False,True,12.0
+1159560,Ziggurat 2,Very Positive,93,24.99,True,True,True,True,25.0
+1159660,Moe Era,Very Positive,88,0.0,True,True,True,True,39.0
+1160220,Paradise Killer,Very Positive,94,7.99,True,False,False,True,82.0
+1160750,Grim Clicker,Very Positive,81,0.0,True,False,False,True,26.0
+1161170,The Rewinder,Overwhelmingly Positive,97,14.99,True,True,False,True,99.0
+1161490,MotoGP™20,Very Positive,90,29.99,True,False,False,True,12.0
+1161580,Hardspace: Shipbreaker,Very Positive,89,17.0,True,False,False,True,230.0
+1161870,Epiphyllum in Love,Overwhelmingly Positive,98,3.99,True,False,False,True,33.0
+1162070,Nyakori's Rabbit Doll,Overwhelmingly Positive,96,2.99,True,False,False,True,10.0
+1162130,Windbound,Mixed,58,19.99,True,False,False,True,11.0
+1162750,Songs of Syx,Overwhelmingly Positive,96,24.99,True,True,True,True,34.0
+1162930,Split or Steal,Mostly Positive,78,0.0,True,False,False,True,18.0
+1163130,Oasis VR,Very Positive,85,0.0,True,False,False,True,8.0
+1163550,Captain Tsubasa: Rise of New Champions,Mixed,67,59.99,True,False,False,True,32.0
+1163870,Mecha Knights: Nightmare,Very Positive,91,15.99,True,False,False,True,12.0
+1164050,When The Past Was Around,Overwhelmingly Positive,95,7.99,True,True,False,True,69.0
+1164250,Model Builder,Mostly Positive,79,19.99,True,False,False,True,17.0
+1166290,Death and Taxes,Very Positive,88,12.99,True,True,True,True,51.0
+1166860,Rival Stars Horse Racing: Desktop Edition,Very Positive,91,39.99,True,True,False,True,5.0
+1167140,Siege Survival: Gloria Victis,Very Positive,81,24.99,True,False,False,True,19.0
+1167450,DAEMON X MACHINA,Very Positive,88,49.99,True,False,False,True,86.0
+1167630,Teardown,Overwhelmingly Positive,96,30.0,True,False,False,True,649.0
+1168470,千面 Melancholy Love,Overwhelmingly Positive,98,4.99,True,True,False,True,24.0
+1170760,XIII - Classic,Very Positive,91,5.99,True,False,False,True,45.0
+1170950,Mortal Online 2,Mixed,60,39.99,True,False,False,True,30.0
+1171320,Frog Detective 3: Corruption at Cowboy County,Overwhelmingly Positive,99,4.99,True,True,False,True,0.0
+1171370,The Supper,Overwhelmingly Positive,98,0.0,True,False,False,True,60.0
+1172450,Carto,Overwhelmingly Positive,97,19.99,True,True,False,True,123.0
+1172470,Apex Legends™,Very Positive,80,0.0,True,False,False,True,742.0
+1172620,Sea of Thieves 2023 Edition,Very Positive,90,40.0,True,False,False,True,1188.0
+1172650,INDUSTRIA,Mostly Positive,74,9.99,True,False,False,True,47.0
+1173010,Flowers Blooming at the End of Summer,Overwhelmingly Positive,95,0.49,True,True,True,True,11.0
+1173200,Metal Unit,Very Positive,83,14.99,True,False,False,True,57.0
+1173370,Slapshot: Rebound,Very Positive,84,0.0,True,False,False,True,46.0
+1173510,XSOverlay,Very Positive,91,9.99,True,False,False,True,15.0
+1173690,Resident Evil 3: Raccoon City Demo,Very Positive,89,0.0,True,False,False,True,158.0
+1173770,FINAL FANTASY,Very Positive,94,11.99,True,False,False,True,87.0
+1173780,FINAL FANTASY II,Mostly Positive,77,11.99,True,False,False,True,39.0
+1173790,FINAL FANTASY III,Very Positive,93,17.99,True,False,False,True,42.0
+1173800,FINAL FANTASY IV,Very Positive,89,17.99,True,False,False,True,25.0
+1173810,FINAL FANTASY V,Very Positive,85,17.99,True,False,False,True,20.0
+1173820,FINAL FANTASY VI,Very Positive,89,17.99,True,False,False,True,33.0
+1174940,Kill or Love,Very Positive,89,0.0,True,True,True,True,23.0
+1175140,Vecter,Overwhelmingly Positive,96,0.0,True,False,True,True,35.0
+1175460,Revita,Very Positive,83,16.99,True,False,False,True,25.0
+1175830,Legend of Mana,Very Positive,81,29.99,True,False,False,True,10.0
+1176470,Terra Invicta,Very Positive,82,39.99,True,False,False,True,0.0
+1176710,Space Crew: Legendary Edition,Mostly Positive,79,24.99,True,True,True,True,25.0
+1178030,Star Fetchers,Overwhelmingly Positive,97,0.0,True,False,False,True,91.0
+1178050,狐の旅路,Very Positive,94,0.0,True,False,False,True,19.0
+1178220,ICBM,Very Positive,92,19.99,True,False,False,True,13.0
+1178490,港詭實錄ParanormalHK,Very Positive,90,12.99,True,False,False,True,73.0
+1178830,Bright Memory: Infinite,Very Positive,92,19.99,True,False,False,True,434.0
+1179080,FAITH: The Unholy Trinity,Overwhelmingly Positive,96,11.0,True,False,False,True,0.0
+1179210,Kill It With Fire,Overwhelmingly Positive,95,14.99,True,False,False,True,91.0
+1179680,Wurm Online,Mixed,59,0.0,True,True,True,True,9.0
+1180320,War of the Three Kingdoms,Overwhelmingly Negative,15,0.0,True,False,False,True,5.0
+1180660,Tell Me Why,Very Positive,84,19.99,True,False,False,True,157.0
+1181790,Circle of Sumo: Online Rumble!,Very Positive,93,0.0,True,True,False,True,7.0
+1181830,Urtuk: The Desolation,Very Positive,90,19.99,True,True,True,True,25.0
+1181840,HIVESWAP: ACT 2,Very Positive,88,14.99,True,True,True,True,8.0
+1182020,WGT Golf,Mixed,61,0.0,True,True,False,True,8.0
+1182110,Weed Shop 3,Very Positive,94,19.99,True,False,False,True,34.0
+1182310,The Excavation of Hob's Barrow,Very Positive,93,14.99,True,True,True,True,0.0
+1182620,Impostor Factory,Overwhelmingly Positive,96,9.99,True,True,True,True,163.0
+1182900,A Plague Tale: Requiem,Very Positive,91,25.0,True,False,False,True,0.0
+1184050,Gears Tactics,Mostly Positive,76,39.99,True,False,False,True,95.0
+1184160,RUSSIAPHOBIA,Mostly Positive,70,0.99,True,True,True,True,44.0
+1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,Very Positive,82,40.0,True,True,False,True,270.0
+1186040,Worms Rumble,Mixed,68,14.99,True,False,False,True,36.0
+1186640,Pumpkin Jack,Very Positive,93,8.99,True,False,False,True,111.0
+1189630,Path Of Wuxia,Mostly Positive,79,34.99,True,False,False,True,140.0
+1189800,Bleeding Edge,Mixed,68,29.99,True,False,False,True,13.0
+1190000,Car Mechanic Simulator 2021,Overwhelmingly Positive,96,25.0,True,False,False,True,118.0
+1190340,SUPER PEOPLE 2,Mixed,56,0.0,True,False,False,True,0.0
+1191120,Growing Up,Very Positive,88,14.99,True,True,False,True,27.0
+1191580,Nexomon,Very Positive,89,4.99,True,True,False,True,28.0
+1191630,Shantae and the Seven Sirens,Very Positive,90,29.99,True,False,False,True,29.0
+1191840,Legend Creatures(传奇生物),Very Positive,90,2.49,True,False,False,True,38.0
+1193340,Zelter,Mixed,55,19.99,True,False,False,True,9.0
+1194630,The Dark Pictures Anthology: Little Hope,Mostly Positive,72,19.99,True,False,False,True,147.0
+1194840,Frog Fractions: Game of the Decade Edition,Very Positive,94,0.0,True,True,False,True,46.0
+1194930,Blackthorn Arena,Mixed,69,19.99,True,False,False,True,27.0
+1195290,Moncage,Very Positive,94,14.99,True,False,False,True,90.0
+1196590,Resident Evil Village,Overwhelmingly Positive,95,40.0,True,False,False,True,1258.0
+1196630,Nexomon: Extinction,Very Positive,92,19.99,True,True,False,True,33.0
+1197260,The Perfect Tower II,Very Positive,87,0.0,True,False,False,True,27.0
+1197570,Until We Die,Mixed,69,16.99,True,False,False,True,42.0
+1198090,The Legend of Heroes: Trails of Cold Steel IV,Very Positive,94,59.99,True,False,False,True,26.0
+1199030,Tainted Grail: Conquest,Very Positive,91,19.99,True,False,True,True,98.0
+1201230,Immortal Life,Very Positive,80,16.99,True,False,False,True,19.0
+1201240,BLEACH Brave Souls,Very Positive,88,0.0,True,False,False,True,27.0
+1201280,A Space For The Unbound - Prologue,Overwhelmingly Positive,98,0.0,True,False,False,True,27.0
+1201630,Mineirinho Director's Cut,Mixed,69,0.99,True,False,False,True,11.0
+1202130,Starship Troopers: Terran Command,Very Positive,88,29.99,True,False,False,True,72.0
+1202540,Marco & The Galaxy Dragon,Overwhelmingly Positive,97,19.99,True,False,False,True,118.0
+1202900,Assemble with Care,Very Positive,91,7.99,True,False,False,True,90.0
+1203220,NARAKA: BLADEPOINT,Mostly Positive,75,0.0,True,False,False,True,163.0
+1203420,Miss Neko 2,Very Positive,92,1.99,True,False,False,True,42.0
+1203630,Record of Lodoss War-Deedlit in Wonder Labyrinth-,Very Positive,93,19.99,True,False,False,True,82.0
+1203710,UnMetal,Very Positive,94,19.99,True,False,False,True,35.0
+1203930,The Last Haven,Very Positive,82,19.99,True,False,False,True,15.0
+1205240,Tentacle Girl,Very Positive,89,1.99,True,True,False,True,37.0
+1205450,Turnip Boy Commits Tax Evasion,Overwhelmingly Positive,95,14.99,True,True,True,True,147.0
+1205520,Pentiment,Overwhelmingly Positive,96,19.99,True,False,False,True,0.0
+1205960,My Cute Fuhrer,Very Positive,87,1.99,True,False,False,True,19.0
+1205970,MX vs ATV Legends,Mixed,65,39.99,True,False,False,True,4.0
+1206060,Happy Game,Very Positive,90,13.13,True,True,False,True,53.0
+1206240,Talvisota - Winter War,Very Positive,88,0.0,True,False,False,True,19.0
+1206430,The Unfinished Swan,Very Positive,85,14.99,True,False,False,True,41.0
+1206560,WorldBox - God Simulator,Very Positive,94,20.0,True,True,True,True,136.0
+1206610,Rubber Bandits,Very Positive,86,2.0,True,False,False,True,21.0
+1207590,Builders of Egypt: Prologue,Mostly Positive,73,0.0,True,False,False,True,28.0
+1207650,Suzerain,Very Positive,93,4.49,True,True,False,True,50.0
+1207850,Project RTD: Random Tower Defense PvP,Mixed,49,0.0,True,False,False,True,4.0
+1208260,Hentai Vs Furries,Very Positive,90,0.99,True,False,False,True,23.0
+1209040,Cyber Hunter,Mostly Positive,73,0.0,True,False,False,True,64.0
+1209490,Exit the Gungeon,Mostly Positive,77,9.99,True,False,False,True,47.0
+1210030,노베나 디아볼로스,Very Positive,94,18.99,True,True,False,True,9.0
+1210250,Island Saver,Overwhelmingly Positive,95,0.0,True,False,False,True,30.0
+1210320,Potion Craft: Alchemist Simulator,Very Positive,91,15.0,True,False,False,True,205.0
+1211020,Wobbly Life,Overwhelmingly Positive,97,15.0,True,False,False,True,45.0
+1211630,The Jackbox Party Pack 7,Overwhelmingly Positive,97,30.0,True,True,True,True,86.0
+1212620,Pretty Neko,Very Positive,93,0.69,True,True,False,True,62.0
+1212830,Seek Girl Ⅳ,Mostly Positive,74,0.99,True,False,False,True,41.0
+1213210,Command & Conquer™ Remastered Collection,Very Positive,90,19.99,True,False,False,True,229.0
+1213700,Spirit of the North,Very Positive,88,19.99,True,False,False,True,41.0
+1214280,Walking Simulator,Very Positive,87,0.0,True,False,False,True,127.0
+1214360,SKYE,Very Positive,92,0.0,True,False,False,True,27.0
+1215090,My Friend is a Raven,Very Positive,91,0.0,True,False,False,True,25.0
+1215390,Animal Revolt Battle Simulator,Overwhelmingly Positive,96,14.99,True,False,False,True,14.0
+1216060,DNF Duel,Mixed,64,49.99,True,False,False,True,39.0
+1216080,坦率的小红帽和爱说谎的狼,Overwhelmingly Positive,98,0.0,True,False,False,True,15.0
+1216200,Coloring Game 2,Overwhelmingly Positive,97,0.0,True,False,False,True,49.0
+1216710,Cyber Manhunt,Very Positive,94,9.99,True,True,False,True,120.0
+1217060,Gunfire Reborn,Very Positive,93,20.0,True,False,False,True,865.0
+1217390,Some Some Convenience Store,Overwhelmingly Positive,96,14.99,True,False,False,True,18.0
+1218210,Coromon,Very Positive,87,19.99,True,True,False,True,34.0
+1218250,We Went Back,Very Positive,85,0.0,True,False,False,True,82.0
+1218280,Bad Guys at School,Very Positive,88,4.49,True,False,False,True,20.0
+1218740,Rakion Chaos Force,Mixed,60,0.0,True,False,False,True,3.0
+1218900,Zup! Z,Overwhelmingly Positive,97,1.99,True,False,False,True,54.0
+1220010,Home Behind 2,Very Positive,87,19.99,True,True,True,True,71.0
+1220140,Cartel Tycoon,Mostly Positive,77,29.99,True,False,False,True,30.0
+1220150,Blue Fire,Very Positive,85,19.99,True,False,False,True,49.0
+1220840,Retirement Simulator,Mostly Negative,36,13.99,True,True,False,True,19.0
+1221250,NORCO,Very Positive,92,14.99,True,True,False,True,20.0
+1222140,Detroit: Become Human,Very Positive,94,40.0,True,False,False,True,574.0
+1222370,Necromunda: Hired Gun,Mostly Positive,70,12.0,True,False,False,True,114.0
+1222670,The Sims™ 4,Very Positive,87,0.0,True,False,False,True,291.0
+1222680,Need for Speed™ Heat,Very Positive,84,7.0,True,False,False,True,234.0
+1222690,Dragon Age™ Inquisition,Mostly Positive,76,39.99,True,False,False,True,155.0
+1222700,A Way Out,Very Positive,86,30.0,True,False,False,True,510.0
+1222730,STAR WARS™: Squadrons,Mostly Positive,70,39.99,True,False,False,True,268.0
+1222800,VALKYRIE CONNECT,Mostly Positive,78,0.0,True,False,False,True,2.0
+1224020,Creepy Tale,Very Positive,87,4.99,True,True,True,True,43.0
+1225560,Unravel,Very Positive,91,19.99,True,False,False,True,91.0
+1225570,Unravel Two,Very Positive,82,19.99,True,False,False,True,84.0
+1225780,他人世界末 On-looker,Very Positive,94,8.99,True,False,False,True,13.0
+1226470,Shadow Arena,Mixed,55,0.0,True,False,False,True,29.0
+1226510,Trigon: Space Story,Mixed,67,19.99,True,True,True,True,13.0
+1227280,Despot's Game: Dystopian Battle Simulator,Very Positive,85,19.99,True,True,True,True,49.0
+1227530,Partisans 1941,Very Positive,83,29.99,True,False,False,True,81.0
+1227650,Bang-On Balls: Chronicles,Overwhelmingly Positive,97,21.99,True,False,False,True,29.0
+1227690,Severed Steel,Very Positive,94,24.99,True,False,False,True,81.0
+1227780,Taur,Very Positive,80,24.99,True,False,False,True,25.0
+1227890,Summer Memories,Very Positive,93,13.99,True,False,False,True,97.0
+1228520,[Chilla's Art] The Convenience Store | 夜勤事件,Very Positive,85,2.99,True,False,False,True,38.0
+1229240,Chained Echoes,Very Positive,91,20.0,True,True,True,True,0.0
+1229380,Everhood,Overwhelmingly Positive,96,9.99,True,False,False,True,221.0
+1229490,ULTRAKILL,Overwhelmingly Positive,98,25.0,True,False,False,True,564.0
+1229900,ARIA CHRONICLE,Mostly Positive,79,17.99,True,False,False,True,17.0
+1230140,ATRI -My Dear Moments-,Overwhelmingly Positive,98,12.59,True,False,False,True,134.0
+1230410,Chaos,Very Positive,88,0.0,True,False,False,True,54.0
+1231880,Haiku the Robot,Very Positive,91,19.99,True,True,False,True,19.0
+1232180,Sakuya Izayoi Gives You Advice And Dabs,Overwhelmingly Positive,98,0.99,True,False,False,True,28.0
+1232420,Atlantica Global,Mixed,65,0.0,True,False,False,True,3.0
+1232460,Onee Chanbara ORIGIN,Mostly Positive,73,59.99,True,False,False,True,27.0
+1233260,FAIRY TAIL,Mostly Positive,72,59.99,True,False,False,True,21.0
+1233270,OshiRabu: Waifus Over Husbandos,Very Positive,87,19.99,True,False,False,True,48.0
+1233570,Mirror's Edge™ Catalyst,Very Positive,83,19.99,True,False,False,True,227.0
+1233590,Warhammer Age of Sigmar: Storm Ground,Mixed,62,19.99,True,False,False,True,18.0
+1235140,Yakuza: Like a Dragon,Overwhelmingly Positive,95,59.99,True,False,False,True,540.0
+1236300,Resident Evil Re:Verse,Mostly Negative,37,39.99,True,False,False,True,0.0
+1236990,Boris and the Dark Survival,Very Positive,92,2.99,True,True,False,True,31.0
+1237320,Sonic Frontiers,Very Positive,93,60.0,True,False,False,True,0.0
+1237950,STAR WARS™ Battlefront™ II,Very Positive,87,40.0,True,False,False,True,402.0
+1237970,Titanfall® 2,Very Positive,94,3.0,True,False,False,True,1095.0
+1237980,STAR WARS™ Battlefront,Mostly Positive,79,19.99,True,False,False,True,49.0
+1238000,Mass Effect™: Andromeda Deluxe Edition,Mostly Positive,77,29.99,True,False,False,True,181.0
+1238020,Mass Effect™ 3 N7 Digital Deluxe Edition (2012),Mostly Positive,75,29.99,True,False,False,True,39.0
+1238040,Dragon Age II: Ultimate Edition,Very Positive,81,29.99,True,False,False,True,74.0
+1238060,Dead Space™ 3,Mostly Positive,77,19.99,True,False,False,True,164.0
+1238080,Burnout™ Paradise Remastered,Mixed,64,19.99,True,False,False,True,75.0
+1238810,Battlefield™ V,Mostly Positive,70,50.0,True,False,False,True,611.0
+1238820,Battlefield 3™,Mixed,69,39.99,True,False,False,True,117.0
+1238840,Battlefield™ 1,Very Positive,86,40.0,True,False,False,True,733.0
+1238860,Battlefield 4™,Very Positive,87,39.99,True,False,False,True,537.0
+1238880,Battlefield™ Hardline,Mixed,67,39.99,True,False,False,True,74.0
+1239020,TOGETHER BnB,Mixed,68,17.99,True,False,False,True,30.0
+1239050,Mists of Aiden,Very Positive,91,6.99,True,False,False,True,34.0
+1239080,Door Kickers 2: Task Force North,Overwhelmingly Positive,96,24.99,True,False,False,True,94.0
+1239260,Barro F,Very Positive,82,4.99,True,False,False,True,13.0
+1239320,Animal Shelter,Very Positive,85,19.99,True,False,False,True,31.0
+1239690,Retrowave,Overwhelmingly Positive,96,2.99,True,False,False,True,163.0
+1240210,There Is No Game: Wrong Dimension,Overwhelmingly Positive,97,12.99,True,True,False,True,324.0
+1240440,Halo Infinite,Mostly Positive,70,0.0,True,False,False,True,1141.0
+1241100,POLYGON,Mostly Positive,72,0.0,True,False,False,True,105.0
+1241510,The Test,Overwhelmingly Positive,97,1.99,True,False,False,True,61.0
+1241520,The Horrorscope,Very Positive,94,1.99,True,False,False,True,13.0
+1241700,There Is No Game: Jam Edition 2015,Overwhelmingly Positive,97,0.0,True,True,False,True,137.0
+1241950,Warzone 2100,Very Positive,90,0.0,True,False,False,True,17.0
+1242700,墲人之境：1V4摸金对决,Very Positive,81,0.0,True,False,False,True,4.0
+1243830,Overcooked! All You Can Eat,Mostly Positive,72,19.99,True,False,False,True,14.0
+1244460,Jurassic World Evolution 2,Very Positive,87,60.0,True,False,False,True,111.0
+1244630,House Builder,Mostly Positive,78,11.99,True,False,False,True,16.0
+1244950,Battletoads,Mixed,69,19.99,True,False,False,True,44.0
+1245430,Golden Light,Very Positive,94,9.99,True,False,False,True,75.0
+1245540,Touhou Endless Dream,Overwhelmingly Positive,95,7.99,True,False,False,True,39.0
+1245620,ELDEN RING,Very Positive,92,60.0,True,False,False,True,1277.0
+1246020,NOeSIS01_诉说谎言记忆物语,Overwhelmingly Positive,97,0.0,True,False,False,True,11.0
+1248130,Farming Simulator 22,Very Positive,91,40.0,True,True,False,True,125.0
+1249130,Hero of the Kingdom: The Lost Tales 1,Very Positive,92,4.99,True,True,True,True,23.0
+1249800,Xuan-Yuan Sword VII,Mixed,62,34.99,True,False,False,True,69.0
+1249880,Tiny Bunny: Prologue,Overwhelmingly Positive,97,0.0,True,False,False,True,26.0
+1250410,Microsoft Flight Simulator 40th Anniversary Edition,Mostly Positive,78,60.0,True,False,False,True,236.0
+1250650,AI＊Shoujo/AI＊少女,Mostly Positive,76,70.0,True,False,False,True,25.0
+1250760,Far Away,Overwhelmingly Positive,98,12.99,True,False,False,True,108.0
+1250870,Cyrano Story,Mixed,68,0.0,True,True,False,True,20.0
+1252330,DEATHLOOP,Mostly Positive,77,59.99,True,False,False,True,612.0
+1252600,ANOTHER EDEN,Mixed,69,0.0,True,False,False,True,7.0
+1252780,Bloons Monkey City,Very Positive,92,0.0,True,True,False,True,48.0
+1253920,Rogue Legacy 2,Very Positive,90,24.99,True,True,True,True,183.0
+1254120,Bless Unleashed,Mixed,51,0.0,True,False,False,True,91.0
+1254370,No one lives under the lighthouse Director's cut,Very Positive,89,6.99,True,True,True,True,46.0
+1254900,迷雾之夏-The Vigilant Villa,Mostly Positive,79,7.99,True,False,False,True,15.0
+1255560,Myst,Very Positive,88,29.99,True,True,False,True,18.0
+1255630,WWE 2K22,Mostly Positive,73,14.99,True,False,False,True,58.0
+1255650,Geometry Arena,Overwhelmingly Positive,96,5.99,True,True,False,True,52.0
+1255980,Portal Reloaded,Overwhelmingly Positive,96,0.0,True,True,True,True,243.0
+1256230,Hyperbolica,Very Positive,83,16.99,True,True,True,True,16.0
+1256610,Dream Date,Very Positive,85,1.99,True,False,False,True,41.0
+1256670,Library Of Ruina,Very Positive,93,29.99,True,False,False,True,105.0
+1257290,Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition,Very Positive,91,71.99,True,False,False,True,60.0
+1257360,Bloodstained: Curse of the Moon 2,Very Positive,87,14.99,True,False,False,True,23.0
+1257410,Cat in the Box,Very Positive,93,6.99,True,False,False,True,19.0
+1258040,Super Bernie World,Mostly Positive,78,0.0,True,True,True,True,37.0
+1258080,Shop Titans,Mostly Positive,78,0.0,True,False,False,True,90.0
+1258590,Locked Up,Mostly Positive,79,12.99,True,False,False,True,23.0
+1259420,Days Gone,Very Positive,92,50.0,True,False,False,True,814.0
+1259790,Puyo Puyo™ Tetris® 2,Very Positive,82,29.99,True,False,False,True,19.0
+1259840,The House of Da Vinci 2,Very Positive,92,19.99,True,True,False,True,25.0
+1259980,RIDE 4,Very Positive,82,49.99,True,False,False,True,40.0
+1260520,Patrick's Parabox,Overwhelmingly Positive,99,19.99,True,True,True,True,35.0
+1260810,Touhou Blooming Chaos 2,Very Positive,93,5.99,True,False,False,True,33.0
+1261040,Streamer Life Simulator,Mostly Positive,79,19.99,True,False,False,True,44.0
+1262240,Plants vs. Zombies: Battle for Neighborville™,Mostly Positive,74,39.99,True,False,False,True,86.0
+1262350,SIGNALIS,Overwhelmingly Positive,96,16.0,True,False,False,True,0.0
+1262460,Zompiercer,Very Positive,86,19.99,True,False,False,True,14.0
+1262540,Need for Speed™,Mostly Positive,72,7.0,True,False,False,True,110.0
+1262560,Need for Speed™ Most Wanted,Mostly Positive,79,4.0,True,False,False,True,98.0
+1262580,Need for Speed™ Payback,Very Positive,86,29.99,True,False,False,True,116.0
+1262600,Need for Speed™ Rivals,Mostly Positive,77,19.99,True,False,False,True,52.0
+1263070,Blightbound,Mixed,64,9.99,True,False,False,True,22.0
+1263370,Seek Girl:Fog Ⅰ,Very Positive,84,3.99,True,False,False,True,72.0
+1263550,Combat Arms: the Classic,Mixed,64,0.0,True,False,False,True,6.0
+1264250,Fishing: North Atlantic - Enhanced Edition,Mostly Positive,76,34.99,True,False,False,True,24.0
+1264280,Slipways,Very Positive,93,16.99,True,True,False,True,28.0
+1264670,The Wind Road,Mixed,68,29.99,True,False,False,True,53.0
+1264740,Lucid Dream,Very Positive,91,0.0,True,False,False,True,14.0
+1265820,Fights in Tight Spaces,Very Positive,93,24.99,True,False,False,True,37.0
+1265860,NASCAR Heat 5,Very Positive,82,14.99,True,False,False,True,11.0
+1265920,Life is Strange Remastered,Mostly Positive,75,39.99,True,False,False,True,28.0
+1266600,亦春秋 Power Of Seasons,Mixed,66,12.99,True,False,False,True,17.0
+1266690,Dark Deception: Monsters & Mortals,Very Positive,85,4.99,True,False,False,True,12.0
+1266700,Destroy All Humans! 2 - Reprobed,Mostly Positive,78,19.99,True,False,False,True,0.0
+1266840,The Last Stand: Aftermath,Very Positive,81,24.99,True,False,False,True,56.0
+1267470,Warriors of the Nile,Mostly Positive,79,12.99,True,False,False,True,28.0
+1267910,Melvor Idle,Very Positive,90,5.0,True,True,True,True,127.0
+1268960,pureya,Overwhelmingly Positive,98,5.99,True,True,True,True,17.0
+1269370,171,Mostly Positive,78,19.99,True,False,False,True,0.0
+1269640,Beacon Pines,Overwhelmingly Positive,98,13.99,True,False,False,True,0.0
+1269950,Buddy Simulator 1984,Very Positive,94,9.99,True,False,False,True,59.0
+1271400,Adios,Very Positive,94,17.99,True,False,False,True,17.0
+1271700,HOT WHEELS UNLEASHED™,Very Positive,81,49.99,True,False,False,True,73.0
+1272160,The Life and Suffering of Sir Brante,Very Positive,91,19.99,True,False,False,True,56.0
+1272320,Diplomacy is Not an Option,Very Positive,85,24.99,True,False,False,True,54.0
+1273400,Construction Simulator,Very Positive,80,35.0,True,False,False,True,0.0
+1273710,King of Crabs,Mostly Positive,79,0.0,True,False,False,True,60.0
+1274140,One Dreamer: Prologue,Overwhelmingly Positive,96,0.0,True,True,True,True,16.0
+1274290,Kidnapped Girl,Very Positive,86,0.0,True,False,False,True,37.0
+1274490,Green Project,Very Positive,84,5.99,True,False,False,True,14.0
+1274570,DEVOUR,Very Positive,92,5.0,True,True,False,True,374.0
+1275350,Ninja Kiwi Archive,Very Positive,93,0.0,True,False,False,True,54.0
+1275630,Drug Dealer Simulator: Free Sample,Very Positive,89,0.0,True,False,False,True,11.0
+1275640,Coloring Game 3,Overwhelmingly Positive,96,0.0,True,False,False,True,32.0
+1275670,Outcore: Desktop Adventure,Overwhelmingly Positive,97,0.0,True,False,False,True,0.0
+1275890,Baldi's Basics Plus,Overwhelmingly Positive,96,9.99,True,True,True,True,22.0
+1276390,Bloons TD Battles 2,Very Positive,82,0.0,True,True,False,True,98.0
+1276760,DRAGON BALL: THE BREAKERS,Mixed,56,19.99,True,False,False,True,0.0
+1276790,Ruined King: A League of Legends Story™,Very Positive,89,29.99,True,False,False,True,127.0
+1277400,Monster Hunter Stories 2: Wings of Ruin,Very Positive,81,39.99,True,False,False,True,202.0
+1277930,Riddle Joker,Overwhelmingly Positive,98,34.99,True,False,False,True,90.0
+1277940,Kinkoi: Golden Loveriche,Overwhelmingly Positive,97,34.99,True,False,False,True,54.0
+1278480,Smart Game Booster,Mostly Positive,76,0.0,True,False,False,True,5.0
+1279610,PrprLive,Very Positive,89,0.0,True,False,False,True,11.0
+1280770,Redmatch 2,Very Positive,93,0.0,True,False,False,True,55.0
+1280780,War on the Sea,Mostly Positive,78,39.99,True,True,False,True,14.0
+1281080,Train Station Renovation - First Job,Very Positive,87,0.0,True,False,False,True,9.0
+1281590,The Dark Pictures Anthology: House of Ashes,Very Positive,88,29.99,True,False,False,True,127.0
+1281630,Anno 1404 - History Edition,Very Positive,82,14.99,True,False,False,True,9.0
+1281800,Samsara Room,Overwhelmingly Positive,97,0.0,True,True,False,True,136.0
+1281930,tModLoader,Overwhelmingly Positive,97,0.0,True,True,True,True,147.0
+1282200,The Test: Hypothesis Rising,Overwhelmingly Positive,98,1.99,True,False,False,True,38.0
+1282210,DEEMO -Reborn-,Very Positive,87,24.99,True,False,False,True,50.0
+1282410,Hard West 2,Mostly Positive,77,29.99,True,False,False,True,0.0
+1282690,Crysis® 3,Very Positive,86,29.99,True,False,False,True,124.0
+1282730,Loop Hero,Very Positive,93,14.99,True,True,True,True,553.0
+1283130,Micro Platformer,Overwhelmingly Positive,96,0.0,True,False,False,True,23.0
+1283190,Neighbours back From Hell,Very Positive,93,14.99,True,False,False,True,53.0
+1283220,Devolverland Expo,Very Positive,89,0.0,True,False,False,True,182.0
+1283400,Steelrising,Mostly Positive,75,49.99,True,False,False,True,0.0
+1283410,Tails of Iron,Very Positive,89,24.99,True,True,True,True,76.0
+1283970,YoloMouse,Very Positive,94,3.99,True,False,False,True,5.0
+1284190,The Planet Crafter,Overwhelmingly Positive,96,20.0,True,False,False,True,121.0
+1284210,Guild Wars 2,Very Positive,88,0.0,True,False,False,True,0.0
+1284410,GWENT: The Witcher Card Game,Very Positive,88,0.0,True,False,False,True,62.0
+1284820,Desktop Kanojo,Very Positive,86,2.99,True,False,False,True,25.0
+1285670,Post Void,Overwhelmingly Positive,97,2.99,True,False,False,True,235.0
+1286350,BPM: BULLETS PER MINUTE,Very Positive,92,19.99,True,False,False,True,172.0
+1286580,Ship of Fools,Very Positive,81,9.74,True,False,False,True,0.0
+1286680,Tiny Tina's Wonderlands,Mostly Positive,76,60.0,True,False,False,True,88.0
+1286710,Hylics 2,Overwhelmingly Positive,96,14.99,True,True,False,True,32.0
+1286830,STAR WARS™: The Old Republic™,Very Positive,89,0.0,True,False,False,True,376.0
+1286880,Ship Graveyard Simulator,Mostly Positive,70,14.99,True,False,False,True,14.0
+1287040,Gun Devil,Overwhelmingly Positive,96,0.0,True,False,False,True,0.0
+1287840,Disciples: Liberation,Mostly Positive,75,39.99,True,False,False,True,38.0
+1288310,Firework,Overwhelmingly Positive,98,5.99,True,False,False,True,270.0
+1288320,Way of the Hunter,Mostly Positive,77,40.0,True,False,False,True,0.0
+1289310,Helltaker,Overwhelmingly Positive,97,0.0,True,True,True,True,312.0
+1289340,TasteMaker,Very Positive,87,9.99,True,False,False,True,15.0
+1289380,Sheltered 2,Mixed,48,19.99,True,False,False,True,13.0
+1289640,The Confession,Overwhelmingly Positive,95,1.99,True,False,False,True,12.0
+1289810,Siralim Ultimate,Very Positive,93,15.99,True,True,True,True,32.0
+1290000,PowerWash Simulator,Overwhelmingly Positive,97,25.0,True,False,False,True,378.0
+1290260,Dark Roll: Free Kick Challenge,Very Positive,80,0.0,True,False,False,True,13.0
+1290490,UNBEATABLE [white label],Overwhelmingly Positive,96,0.0,True,False,False,True,164.0
+1291010,Warpips,Very Positive,89,16.99,True,False,False,True,71.0
+1291340,Townscaper,Overwhelmingly Positive,96,5.99,True,True,False,True,223.0
+1291500,Kill It With Fire: Ignition,Very Positive,91,0.0,True,False,False,True,23.0
+1292040,STRIDE,Very Positive,85,19.99,True,False,False,True,57.0
+1292630,3on3 FreeStyle: Rebound,Mixed,63,0.0,True,False,False,True,5.0
+1292940,Cube Escape Collection,Overwhelmingly Positive,98,4.99,True,True,False,True,92.0
+1293160,The Medium,Very Positive,88,49.99,True,False,False,True,119.0
+1293180,SuchArt: Genius Artist Simulator,Overwhelmingly Positive,98,24.99,True,False,False,True,59.0
+1293820,YOU and ME and HER: A Love Story,Overwhelmingly Positive,96,29.99,True,False,False,True,46.0
+1293830,Forza Horizon 4,Very Positive,89,60.0,True,False,False,True,870.0
+1293860,The Riftbreaker: Prologue,Overwhelmingly Positive,95,0.0,True,False,False,True,60.0
+1294420,Rollerdrome,Very Positive,93,29.99,True,False,False,True,0.0
+1294760,HARD BULLET,Very Positive,89,19.99,True,False,False,True,50.0
+1295500,Warhammer 40000: Battlesector,Very Positive,90,39.99,True,False,False,True,44.0
+1295510,DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,Very Positive,94,39.99,True,False,False,True,99.0
+1295920,The Mortuary Assistant,Very Positive,92,25.0,True,False,False,True,0.0
+1296360,Archvale,Very Positive,89,14.99,True,False,False,True,26.0
+1296610,Peglin,Very Positive,81,20.0,True,True,False,True,73.0
+1296830,暖雪 Warm Snow,Very Positive,92,17.99,True,False,False,True,18.0
+1296840,The Spike,Very Positive,93,3.49,True,False,False,True,5.0
+1297160,a new life.,Overwhelmingly Positive,96,2.99,True,True,True,True,31.0
+1297300,The Shore,Mostly Positive,73,4.79,True,False,False,True,21.0
+1299120,Mosaique Neko Waifus 2,Overwhelmingly Positive,95,1.99,True,False,True,True,74.0
+1301390,No Umbrellas Allowed,Mostly Positive,79,19.99,True,True,False,True,11.0
+1301720,Escape Room - Der kranke Kollege,Very Positive,88,0.0,True,False,False,True,82.0
+1304510,SCP: Nine-Tailed Fox,Mostly Positive,74,0.0,True,False,False,True,16.0
+1304550,Progressbar95,Overwhelmingly Positive,95,4.99,True,True,False,True,22.0
+1305420,Agrou,Very Positive,89,4.99,True,False,False,True,19.0
+1306580,Left on Read,Very Positive,80,0.0,True,True,False,True,68.0
+1306630,Lost Ruins,Very Positive,89,19.99,True,True,True,True,86.0
+1307550,Craftopia,Mostly Positive,79,25.0,True,False,False,True,175.0
+1307580,TOEM,Overwhelmingly Positive,99,19.99,True,True,False,True,43.0
+1307710,GRID Legends,Mostly Positive,75,59.99,True,False,False,True,18.0
+1307890,Kingdoms Reborn,Very Positive,90,16.0,True,False,False,True,64.0
+1310520,Occupy Mars: Prologue (2020),Mostly Positive,79,0.0,True,False,False,True,5.0
+1310990,Bishojo Mangekyo Kotowari to Meikyu no Shojo,Overwhelmingly Positive,96,29.99,True,False,False,True,66.0
+1311660,Friendly Fire,Very Positive,94,0.0,True,True,True,True,17.0
+1313140,Cult of the Lamb,Very Positive,94,25.0,True,True,False,True,0.0
+1314140,TramSim Vienna - The Tram Simulator,Very Positive,80,34.99,True,False,False,True,7.0
+1314460,Flicker of Hope,Very Positive,93,0.0,True,True,False,True,6.0
+1316230,Force of Nature 2: Ghost Keeper,Very Positive,82,15.99,True,False,False,True,23.0
+1316910,Super Monkey Ball Banana Mania,Very Positive,87,29.99,True,False,False,True,37.0
+1318090,Vertigo Remastered,Very Positive,93,24.99,True,False,False,True,31.0
+1318420,Summer in Mara Prologue,Very Positive,87,0.0,True,False,False,True,23.0
+1318690,shapez,Overwhelmingly Positive,97,9.99,True,True,True,True,126.0
+1320550,The Call of Karen,Mostly Positive,78,0.0,True,False,False,True,17.0
+1321680,Hello Neighbor 2,Mostly Positive,72,39.99,True,False,False,True,0.0
+1324340,Made in Abyss: Binary Star Falling into Darkness,Mostly Positive,77,24.0,True,False,False,True,0.0
+1324530,Warhammer 40000: Shootas Blood & Teef,Very Positive,89,19.99,True,True,False,True,0.0
+1324780,Easy Red 2,Very Positive,90,8.99,True,True,True,True,32.0
+1325200,Nioh 2 – The Complete Edition,Very Positive,88,49.99,True,False,False,True,543.0
+1325860,VTube Studio,Very Positive,92,0.0,True,True,False,True,36.0
+1328660,Need for Speed™ Hot Pursuit Remastered,Very Positive,81,4.0,True,False,False,True,88.0
+1328670,Mass Effect™ Legendary Edition,Very Positive,91,60.0,True,False,False,True,553.0
+1328840,Lost in Play,Overwhelmingly Positive,98,19.99,True,True,False,True,0.0
+1328890,Succubus Affection,Very Positive,91,14.99,True,False,False,True,4.0
+1329500,SpiderHeck,Very Positive,94,14.99,True,False,False,True,0.0
+1329510,Big Farm Story,Mostly Positive,77,19.99,True,True,False,True,11.0
+1330000,Stolen Realm,Very Positive,90,19.99,True,True,False,True,13.0
+1330460,Becastled,Very Positive,83,14.99,True,False,False,True,36.0
+1330470,F.I.S.T.: Forged In Shadow Torch,Very Positive,89,29.99,True,False,False,True,101.0
+1330660,Train Life: A Railway Simulator,Mostly Positive,74,19.99,True,False,False,True,6.0
+1332010,Stray,Overwhelmingly Positive,97,30.0,True,False,False,True,678.0
+1332470,Gladiator Guild Manager: Prologue,Very Positive,93,0.0,True,False,False,True,27.0
+1333350,Angel Legion,Very Positive,87,0.0,True,False,False,True,5.0
+1334040,Paper Dolls 2 纸人贰,Very Positive,84,19.99,True,False,False,True,26.0
+1335200,Action Taimanin,Very Positive,83,0.0,True,False,False,True,60.0
+1335790,Operation: Tango,Very Positive,89,19.99,True,False,False,True,92.0
+1335830,Len's Island,Very Positive,87,24.99,True,True,False,True,13.0
+1336490,Against the Storm,Overwhelmingly Positive,95,30.0,True,False,False,True,0.0
+1336560,Hashiriya Drifter-Online Drift Racing Multiplayer (DRIFT/DRAG/RACING),Mostly Positive,71,4.99,True,True,True,True,4.0
+1336980,NOBUNAGA'S AMBITION: Awakening,Mostly Positive,71,60.0,True,False,False,True,3.0
+1337010,Alba: A Wildlife Adventure,Overwhelmingly Positive,97,16.99,True,False,False,True,83.0
+1337760,Potion Permit,Mostly Positive,79,19.99,True,True,False,True,0.0
+1338330,Lemon Cake,Very Positive,90,14.99,True,False,False,True,12.0
+1338770,Sniper Ghost Warrior Contracts 2,Very Positive,84,10.0,True,False,False,True,102.0
+1340130,Aokana - Four Rhythms Across the Blue - EXTRA1,Overwhelmingly Positive,98,16.99,True,False,False,True,49.0
+1340810,The Night Fisherman,Very Positive,83,0.0,True,True,False,True,8.0
+1341060,Half-Life 2: Genry's Great Escape From City 13,Mixed,47,0.0,True,False,False,True,6.0
+1341200,DYNASTY WARRIORS 9 Empires,Mixed,50,59.99,True,False,False,True,15.0
+1341290,We Were Here Forever,Very Positive,91,18.0,True,False,False,True,87.0
+1341820,As Dusk Falls,Very Positive,90,29.99,True,False,False,True,6.0
+1342330,Mad Games Tycoon 2,Very Positive,93,24.99,True,False,False,True,46.0
+1342890,Who Needs a Hero?,Very Positive,93,2.99,True,False,False,True,14.0
+1343240,Thymesia,Very Positive,86,16.74,True,False,False,True,0.0
+1343370,Old School RuneScape,Very Positive,90,0.0,True,True,False,True,151.0
+1343400,RuneScape ®,Very Positive,84,0.0,True,True,False,True,155.0
+1343670,Dealer's Life 2,Very Positive,85,14.99,True,False,False,True,23.0
+1344350,SUCCUBUS: Prologue,Very Positive,82,0.0,True,False,False,True,74.0
+1345740,恋爱绮谭~不存在的夏天~,Overwhelmingly Positive,96,8.99,True,False,False,True,44.0
+1345820,Ragnarock,Overwhelmingly Positive,95,24.99,True,False,False,True,51.0
+1346070,Sign of Silence,Mixed,53,4.99,True,False,False,True,15.0
+1347030,THE CORRIDOR,Overwhelmingly Positive,95,1.99,True,False,False,True,47.0
+1347550,Tiny Combat Arena,Very Positive,90,19.99,True,False,False,True,10.0
+1347780,Freedom Fighters,Overwhelmingly Positive,95,0.0,True,False,False,True,21.0
+1348300,大千世界,Very Positive,87,3.99,True,False,False,True,13.0
+1349230,5D Chess With Multiverse Time Travel,Overwhelmingly Positive,97,11.99,True,True,True,True,101.0
+1350200,IMMORTALITY,Very Positive,84,19.99,True,False,False,True,0.0
+1351630,Ys IX: Monstrum Nox,Very Positive,94,59.99,True,False,False,True,41.0
+1352080,SMASH LEGENDS,Mostly Positive,72,0.0,True,False,False,True,29.0
+1352330,Zoo 2: Animal Park,Mostly Positive,79,0.0,True,False,False,True,15.0
+1352930,HAAK,Very Positive,89,17.99,True,False,False,True,5.0
+1353270,Five Dates,Very Positive,89,4.93,True,True,False,True,37.0
+1353300,Idle Slayer,Very Positive,85,0.0,True,False,False,True,39.0
+1354830,Cat Cafe Manager,Very Positive,85,13.99,True,False,False,True,8.0
+1355760,投资模拟器：打工人,Mixed,62,11.99,True,False,False,True,3.0
+1356280,Kitaria Fables,Mostly Positive,76,19.99,True,False,False,True,20.0
+1356670,Sakuna: Of Rice and Ruin,Very Positive,93,29.99,True,False,False,True,97.0
+1358140,Cooking Simulator VR,Very Positive,85,18.74,True,False,False,True,29.0
+1358710,Battle Cry of Freedom,Mostly Positive,77,14.99,True,False,False,True,20.0
+1359090,Zero Hour,Very Positive,81,11.99,True,False,False,True,306.0
+1359650,The Last of Waifus,Very Positive,82,1.99,True,False,False,True,29.0
+1359980,POSTAL: Brain Damaged,Overwhelmingly Positive,96,19.99,True,False,False,True,121.0
+1360000,The Infected,Very Positive,87,15.99,True,False,False,True,41.0
+1361000,In Silence,Mostly Positive,79,9.99,True,True,False,True,129.0
+1361210,Warhammer 40000: Darktide,Mixed,55,40.0,True,False,False,True,0.0
+1361320,The Room 4: Old Sins,Overwhelmingly Positive,98,8.99,True,False,False,True,152.0
+1361510,Teenage Mutant Ninja Turtles: Shredder's Revenge,Very Positive,94,17.0,True,False,True,True,167.0
+1361700,Half-Life: Alyx - Final Hours,Overwhelmingly Positive,95,9.99,True,True,False,True,38.0
+1363430,Propagation VR,Very Positive,94,0.0,True,False,False,True,73.0
+1364100,Lacuna – A Sci-Fi Noir Adventure,Very Positive,93,15.99,True,False,False,True,56.0
+1364210,City Bus Manager,Very Positive,87,21.89,True,True,False,True,0.0
+1364290,Animalia Survival,Mixed,65,19.99,True,False,False,True,1.0
+1364390,Animaze by FaceRig,Mixed,63,0.0,True,False,False,True,14.0
+1364960,Hello Neighbor 2 Alpha 1.5,Very Positive,85,0.0,True,False,False,True,30.0
+1366290,Kill It With Fire: HEATWAVE,Very Positive,91,0.0,True,False,False,True,25.0
+1366540,Dyson Sphere Program,Overwhelmingly Positive,97,20.0,True,False,False,True,390.0
+1366800,Crosshair X,Very Positive,91,10.0,True,False,False,True,27.0
+1367020,Storybook Brawl,Mixed,64,0.0,True,False,False,True,16.0
+1367300,Blade Assault,Very Positive,81,17.99,True,False,False,True,39.0
+1367550,Kingdom Rush Vengeance - Tower Defense,Overwhelmingly Positive,95,19.99,True,True,False,True,94.0
+1367590,Tormented Souls,Very Positive,93,19.99,True,False,False,True,93.0
+1368030,ANNO: Mutationem,Mostly Positive,78,24.99,True,False,False,True,61.0
+1368820,RollerCoaster Tycoon® 3: Complete Edition,Very Positive,85,19.99,True,True,False,True,5.0
+1368860,像素女友,Overwhelmingly Positive,98,0.0,True,False,False,True,24.0
+1368910,Super Mecha Champions,Mixed,69,0.0,True,False,False,True,37.0
+1368950,VTuber Maker,Mostly Positive,79,0.0,True,False,False,True,9.0
+1369320,Virtual Cottage,Overwhelmingly Positive,97,0.0,True,True,True,True,101.0
+1369340,Cats Organized Neatly,Overwhelmingly Positive,98,2.99,True,False,False,True,74.0
+1369630,ENDER LILIES: Quietus of the Knights,Very Positive,94,12.49,True,False,False,True,266.0
+1369670,Motor Town: Behind The Wheel,Overwhelmingly Positive,95,19.99,True,False,False,True,36.0
+1369760,[NINJA GAIDEN: Master Collection] NINJA GAIDEN 3: Razor's Edge,Mostly Positive,71,39.99,True,False,False,True,21.0
+1370050,Trek to Yomi,Mostly Positive,71,19.99,True,False,False,True,48.0
+1371720,Card Shark,Very Positive,92,11.99,True,True,False,True,58.0
+1372110,JoJo's Bizarre Adventure: All-Star Battle R,Very Positive,87,50.0,True,False,False,True,0.0
+1372280,MELTY BLOOD: TYPE LUMINA,Very Positive,87,49.99,True,False,False,True,70.0
+1372320,Cloud Gardens,Overwhelmingly Positive,95,17.99,True,True,False,True,28.0
+1372810,Teamfight Manager,Very Positive,86,9.99,True,True,False,True,47.0
+1373510,BloodRayne: Terminal Cut,Very Positive,91,14.99,True,False,False,True,31.0
+1373780,Bakery Magnate: Beginning,Very Positive,85,0.0,True,False,False,True,7.0
+1374840,Dark Deity,Mostly Positive,73,9.99,True,False,False,True,14.0
+1375740,Surviv.io - 2D Battle Royale,Mostly Positive,72,0.0,True,True,False,True,9.0
+1375870,川建国同志想要连任/Comrade Trump's Re-election,Very Positive,88,2.99,True,False,False,True,29.0
+1376070,Rushdown Revolt,Very Positive,81,0.0,True,False,True,True,9.0
+1377150,Operation: Tango - Friend Pass,Very Positive,87,0.0,True,False,False,True,21.0
+1377360,Vampires' Melody,Overwhelmingly Positive,97,3.99,True,True,False,True,48.0
+1377380,Night of the Dead,Very Positive,80,24.99,True,False,False,True,71.0
+1377450,Knell of St. Godhrkar,Very Positive,93,0.0,True,True,False,True,18.0
+1377580,Soulworker,Mostly Positive,73,0.0,True,False,False,True,42.0
+1378990,Crash Bandicoot™ 4: It’s About Time,Very Positive,87,20.0,True,False,False,True,0.0
+1379870,Tribal Hunter,Overwhelmingly Positive,97,14.99,True,False,False,True,5.0
+1380420,Grow: Song of the Evertree,Very Positive,85,12.49,True,False,False,True,25.0
+1380910,Stardeus,Very Positive,89,29.99,True,True,True,True,0.0
+1382330,Persona® 5 Strikers,Very Positive,91,59.99,True,False,False,True,258.0
+1382910,Hell Architect: Prologue,Very Positive,82,0.0,True,False,False,True,7.0
+1384160,GUILTY GEAR -STRIVE-,Very Positive,91,40.0,True,False,False,True,387.0
+1384770,Scrutinized,Very Positive,89,9.99,True,False,False,True,13.0
+1385380,Across the Obelisk,Very Positive,90,20.0,True,True,True,True,24.0
+1385730,Mosaique Neko Waifus 3,Very Positive,94,1.99,True,False,True,True,69.0
+1386780,City of Gangsters,Mostly Positive,75,29.99,True,False,False,True,16.0
+1386900,Observer: System Redux,Very Positive,87,29.99,True,False,False,True,36.0
+1388590,Yakuza 6: The Song of Life,Very Positive,93,19.99,True,False,False,True,152.0
+1388770,Cruelty Squad,Overwhelmingly Positive,97,20.0,True,False,False,True,194.0
+1388880,Doki Doki Literature Club Plus!,Overwhelmingly Positive,96,15.0,True,True,False,True,247.0
+1389160,Dark Fracture: Prologue,Very Positive,85,0.0,True,False,False,True,21.0
+1389630,High Entropy: Challenges,Overwhelmingly Positive,95,0.0,True,False,False,True,20.0
+1389950,Amalgam,Very Positive,90,0.0,True,False,False,True,12.0
+1389990,Oblivity - Find your perfect Sensitivity,Very Positive,83,9.99,True,False,False,True,3.0
+1390350,Webbed,Overwhelmingly Positive,97,7.49,True,False,False,True,150.0
+1390410,Midnight Fight Express,Very Positive,91,19.99,True,False,False,True,0.0
+1392060,Erzurum,Mixed,40,0.27,True,False,False,True,23.0
+1392820,Milk inside a bag of milk inside a bag of milk,Overwhelmingly Positive,97,0.99,True,True,True,True,287.0
+1392960,STORY OF SEASONS: Pioneers of Olive Town,Very Positive,85,39.99,True,False,False,True,13.0
+1393350,Swaying Girl,Very Positive,90,0.99,True,False,False,True,63.0
+1393410,Seek Girl V,Mostly Positive,71,1.99,True,False,False,True,33.0
+1393750,Ocean's Heart,Very Positive,82,14.99,True,False,False,True,19.0
+1394270,SCP: Escape Together,Mixed,65,0.0,True,False,True,True,28.0
+1395560,Kandidatos,Very Positive,91,0.29,True,False,False,True,32.0
+1396240,Contraband Police: Prologue,Very Positive,89,0.0,True,False,False,True,42.0
+1397920,Mr.Mine,Very Positive,92,0.0,True,False,False,True,75.0
+1398740,The Chrono Jotter,Overwhelmingly Positive,96,11.99,True,False,False,True,27.0
+1399720,Antimatter Dimensions,Very Positive,88,0.0,True,True,False,True,0.0
+1401590,Disney Dreamlight Valley,Very Positive,93,30.0,True,False,False,True,0.0
+1402020,SCP: Labrat,Very Positive,82,0.0,True,False,False,True,38.0
+1402320,Medal of Honor™: Above and Beyond,Mixed,63,39.99,True,False,False,True,35.0
+1403370,Zenith: The Last City,Very Positive,82,29.99,True,False,False,True,69.0
+1404210,Red Dead Online,Very Positive,84,9.99,True,False,False,True,319.0
+1405470,Scars of Summer,Mostly Positive,74,15.99,True,False,False,True,11.0
+1406850,The Legend of Tianding,Overwhelmingly Positive,96,19.99,True,False,False,True,69.0
+1406990,NEKOPARA Vol. 4,Overwhelmingly Positive,97,9.99,True,False,False,True,125.0
+1407200,World of Tanks,Very Positive,85,0.0,True,False,False,True,78.0
+1407420,Milo and the Magpies,Overwhelmingly Positive,98,1.99,True,True,False,True,49.0
+1407450,大江湖之苍龙与白鸟,Mixed,60,17.99,True,False,False,True,0.0
+1408230,Walkabout Mini Golf VR,Overwhelmingly Positive,98,15.0,True,False,False,True,52.0
+1408610,Call of the Wild: The Angler™,Mixed,57,30.0,True,False,False,True,0.0
+1408720,Krunker,Very Positive,80,0.0,True,True,False,True,105.0
+1410640,Syberia: The World Before,Very Positive,91,39.99,True,False,False,True,29.0
+1410710,Democracy 4,Very Positive,84,26.99,True,False,False,True,33.0
+1411740,Urbek City Builder,Very Positive,92,18.99,True,False,False,True,13.0
+1412190,BEACHED,Mostly Positive,73,0.0,True,False,False,True,11.0
+1412510,仙剑奇侠传九野,Mostly Positive,73,0.0,True,False,False,True,15.0
+1412570,Monster Hunter Stories 2: Wings of Ruin Trial Version,Very Positive,83,0.0,True,False,False,True,18.0
+1413480,Shin Megami Tensei III Nocturne HD Remaster,Very Positive,88,49.99,True,False,False,True,61.0
+1413870,Shadow Man Remastered,Overwhelmingly Positive,96,19.99,True,False,False,True,16.0
+1414180,Motesolo : No Girlfriend Since Birth,Very Positive,86,13.79,True,False,False,True,12.0
+1414850,Nickelodeon All-Star Brawl,Mostly Positive,78,49.99,True,False,False,True,59.0
+1415410,Farm Manager 2021: Prologue,Mostly Positive,77,0.0,True,False,False,True,8.0
+1415660,TRADER LIFE SIMULATOR,Mostly Positive,77,14.99,True,False,False,True,27.0
+1416130,Perfect Vermin,Very Positive,94,0.0,True,False,True,True,91.0
+1416230,Panzer Knights,Very Positive,82,14.99,True,False,False,True,21.0
+1416260,SpellForce 3: Versus Edition,Mostly Positive,76,0.0,True,False,False,True,9.0
+1418100,Swords of Legends Online,Mixed,68,0.0,True,False,False,True,38.0
+1418630,Dread Hunger,Mixed,61,29.99,True,False,False,True,65.0
+1419160,Souldiers,Mixed,63,19.99,True,False,False,True,20.0
+1419170,My Singing Monsters,Very Positive,94,0.0,True,False,False,True,135.0
+1419730,Seek Girl Ⅵ,Mostly Positive,78,1.99,True,False,False,True,35.0
+1419860,Tukoni,Overwhelmingly Positive,97,0.0,True,False,False,True,60.0
+1420290,No More Heroes,Mostly Positive,75,19.99,True,False,False,True,25.0
+1421250,Tiny Bunny,Overwhelmingly Positive,97,12.99,True,False,False,True,48.0
+1421790,Labyrinth City: Pierre the Maze Detective,Overwhelmingly Positive,96,11.99,True,False,False,True,49.0
+1424330,Wobbledogs,Overwhelmingly Positive,98,10.0,True,True,False,True,43.0
+1424720,墨心：波云诡船,Very Positive,89,2.99,True,False,False,True,32.0
+1426210,It Takes Two,Overwhelmingly Positive,95,40.0,True,False,False,True,983.0
+1426450,Age of Darkness: Final Stand,Very Positive,82,14.73,True,False,False,True,62.0
+1426490,LOST EPIC,Mostly Positive,71,24.99,True,False,False,True,11.0
+1426730,The Immortal Mayor,Mixed,66,19.99,True,False,False,True,17.0
+1428310,The Test: Final Revelation,Overwhelmingly Positive,98,1.99,True,False,False,True,36.0
+1428870,Grapple,Mixed,44,0.0,True,False,False,True,6.0
+1428900,Tadpole Tales,Very Positive,90,0.0,True,False,False,True,20.0
+1431610,Prison Simulator Prologue,Very Positive,89,0.0,True,False,False,True,49.0
+1432050,Nobody Saves the World,Very Positive,91,12.49,True,False,False,True,86.0
+1433340,Happy's Humble Burger Farm,Very Positive,93,19.99,True,False,False,True,36.0
+1433420,Hero by Chance,Very Positive,80,1.99,True,False,False,True,26.0
+1433990,NGU INDUSTRIES,Very Positive,80,0.0,True,True,False,True,22.0
+1434480,Maitetsu:Last Run!!,Overwhelmingly Positive,98,34.99,True,False,False,True,57.0
+1434950,HighFleet,Very Positive,88,29.99,True,False,False,True,83.0
+1435310,Shotgun Witch,Overwhelmingly Positive,97,0.0,True,False,False,True,20.0
+1435790,Escape Simulator,Very Positive,94,10.0,True,True,True,True,174.0
+1436590,Phoenotopia: Awakening,Very Positive,86,19.99,True,True,False,True,29.0
+1436990,Feign,Very Positive,90,4.99,True,False,False,True,15.0
+1437830,Heroes of the Three Kingdoms 2,Overwhelmingly Positive,95,0.99,True,False,False,True,17.0
+1437880,Heroes of the Three Kingdoms 7,Very Positive,82,6.99,True,False,False,True,17.0
+1438440,Aurora: A Child's Journey,Very Positive,93,0.0,True,False,False,True,14.0
+1440440,Sam & Max Save the World,Very Positive,91,19.99,True,False,False,True,23.0
+1440670,Zeepkist,Overwhelmingly Positive,97,11.99,True,False,False,True,4.0
+1442670,Hamster Playground,Very Positive,87,0.0,True,True,True,True,0.0
+1444110,Summerland,Very Positive,91,0.0,True,False,False,True,26.0
+1444350,House,Overwhelmingly Positive,97,9.99,True,False,False,True,27.0
+1444480,Turing Complete,Overwhelmingly Positive,95,19.99,True,True,True,True,7.0
+1444650,Haydee 2,Very Positive,91,24.99,True,False,False,True,28.0
+1446650,BRAVELY DEFAULT II,Very Positive,83,59.99,True,False,False,True,26.0
+1446780,MONSTER HUNTER RISE,Very Positive,86,40.0,True,False,False,True,607.0
+1447000,MotoGP™21,Very Positive,81,39.99,True,False,False,True,7.0
+1447430,小黑盒加速器,Mostly Positive,79,0.0,True,False,False,True,22.0
+1448530,Soccer Manager 2021,Mostly Positive,74,0.0,True,False,False,True,4.0
+1449200,AI: THE SOMNIUM FILES - nirvanA Initiative,Very Positive,89,29.99,True,False,False,True,35.0
+1449280,Ghostbusters: The Video Game Remastered,Very Positive,92,24.99,True,False,False,True,28.0
+1449690,The Walking Dead: The Telltale Definitive Series,Overwhelmingly Positive,95,50.0,True,False,False,True,107.0
+1449850,Yu-Gi-Oh! Master Duel,Mostly Positive,76,0.0,True,False,False,True,245.0
+1450830,At Dead Of Night,Very Positive,94,14.99,True,False,False,True,22.0
+1451090,Tactics Ogre: Reborn,Mostly Positive,75,49.99,True,False,False,True,0.0
+1451480,The Greatest Penguin Heist of All Time,Very Positive,89,9.74,True,True,True,True,12.0
+1451940,NEEDY STREAMER OVERLOAD,Overwhelmingly Positive,95,16.0,True,True,False,True,267.0
+1453490,Deducto,Very Positive,89,0.0,True,False,False,True,15.0
+1454400,Cookie Clicker,Overwhelmingly Positive,97,4.99,True,False,False,True,663.0
+1455630,The Game of Life 2,Very Positive,80,12.0,True,False,False,True,22.0
+1455840,Dorfromantik,Overwhelmingly Positive,97,9.79,True,False,False,True,305.0
+1456200,Initial Drift Online,Mostly Positive,77,4.99,True,False,False,True,11.0
+1456650,Pascal's Wager: Definitive Edition,Mixed,69,19.99,True,False,False,True,25.0
+1456820,Marfusha,Very Positive,93,7.99,True,False,False,True,33.0
+1458100,Cozy Grove,Very Positive,90,14.99,True,False,False,True,77.0
+1460090,The Life and Suffering of Sir Brante — Chapter 1&2,Overwhelmingly Positive,96,0.0,True,False,False,True,15.0
+1461600,Project Sparrow,Very Positive,90,12.99,True,False,False,True,11.0
+1461810,蜀山：初章,Mostly Positive,78,24.99,True,False,False,True,0.0
+1462040,FINAL FANTASY VII REMAKE INTERGRADE,Very Positive,89,70.0,True,False,False,True,205.0
+1462470,Vectorio Classic,Very Positive,94,0.0,True,True,True,True,10.0
+1462570,Lost in Random™,Very Positive,91,29.99,True,False,False,True,27.0
+1462810,WRC 10 FIA World Rally Championship,Mostly Positive,71,17.49,True,False,False,True,12.0
+1463730,Arid,Very Positive,86,0.0,True,False,False,True,21.0
+1463920,hexceed,Very Positive,89,0.0,True,True,True,True,31.0
+1464930,Seek Girl Ⅶ,Mostly Positive,71,1.99,True,False,False,True,36.0
+1465070,Legendary Tales,Very Positive,82,34.99,True,False,False,True,24.0
+1465360,SnowRunner,Very Positive,89,15.0,True,False,False,True,154.0
+1465860,*NEW* SCUFFED EPIC BHOP SIMULATOR 2023 (POG CHAMP),Very Positive,91,0.0,True,True,True,True,82.0
+1466640,Road 96 🛣️,Very Positive,91,19.96,True,False,False,True,227.0
+1466860,Age of Empires IV: Anniversary Edition,Very Positive,86,40.0,True,False,False,True,313.0
+1468260,Leaf Blower Revolution - Idle Game,Very Positive,94,0.0,True,False,False,True,246.0
+1469280,SuchArt: Creative Space,Overwhelmingly Positive,98,0.0,True,False,False,True,86.0
+1471180,梦江湖,Mixed,54,19.99,True,False,False,True,11.0
+1471410,SYNTHETIK 2,Very Positive,83,19.99,True,False,False,True,25.0
+1472560,I Am Fish,Mostly Positive,76,19.99,True,False,False,True,38.0
+1472660,No Place Like Home,Very Positive,81,19.99,True,False,False,True,17.0
+1473480,A.V.A Global,Mixed,47,0.0,True,False,False,True,0.0
+1475380,TheDawn,Very Positive,92,0.0,True,False,False,True,48.0
+1475810,Ghostwire: Tokyo,Very Positive,83,59.99,True,False,False,True,235.0
+1476340,The Adventure of NAYU,Overwhelmingly Positive,96,2.99,True,True,False,True,46.0
+1476970,IdleOn - The Idle MMO,Mostly Positive,76,0.0,True,False,False,True,87.0
+1477070,Depersonalization,Very Positive,93,19.99,True,True,False,True,0.0
+1477590,EZ2ON REBOOT : R,Very Positive,89,31.49,True,False,False,True,28.0
+1477790,Luna's Fishing Garden,Overwhelmingly Positive,95,7.99,True,True,True,True,34.0
+1477830,HudSight - custom crosshair overlay,Very Positive,88,6.99,True,False,False,True,6.0
+1478070,Fights in Tight Spaces (Prologue),Very Positive,94,0.0,True,False,False,True,16.0
+1478220,Puzzle Together Multiplayer Jigsaw Puzzles,Very Positive,87,0.0,True,True,False,True,30.0
+1480560,Lawn Mowing Simulator,Mostly Positive,77,19.99,True,False,False,True,26.0
+1481080,DRAMAtical Murder,Overwhelmingly Positive,96,19.99,True,False,False,True,7.0
+1481400,Dagon: by H. P. Lovecraft,Overwhelmingly Positive,96,0.0,True,False,False,True,81.0
+1482620,Slappyball,Very Positive,85,0.0,True,False,False,True,36.0
+1482840,Come with Me,Mostly Positive,75,0.0,True,False,False,True,7.0
+1482860,Idle Research,Very Positive,86,0.0,True,True,True,True,0.0
+1483870,Draw & Guess,Very Positive,84,2.99,True,True,True,True,213.0
+1484280,Demeo,Very Positive,92,39.99,True,False,False,True,19.0
+1484720,Dead Estate,Overwhelmingly Positive,95,14.99,True,False,False,True,49.0
+1484800,Zardy's Maze,Very Positive,92,0.0,True,True,False,True,10.0
+1484900,Hoa,Very Positive,90,14.99,True,True,False,True,27.0
+1485080,Just Act Natural,Very Positive,89,0.0,True,True,False,True,25.0
+1486350,VRoid Studio v1.19.0,Very Positive,94,0.0,True,True,False,True,31.0
+1486630,Intravenous,Very Positive,92,12.99,True,False,False,True,29.0
+1487270,Last Command,Overwhelmingly Positive,96,14.99,True,False,False,True,0.0
+1487390,ANVIL,Mixed,63,24.99,True,False,False,True,8.0
+1488200,Symphony of War: The Nephilim Saga,Overwhelmingly Positive,95,13.0,True,False,False,True,47.0
+1489630,Carrier Command 2,Very Positive,80,29.99,True,True,False,True,38.0
+1490610,METALLIC CHILD,Very Positive,85,24.99,True,False,False,True,22.0
+1490890,Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles,Very Positive,88,59.99,True,False,False,True,84.0
+1492680,The Pathless,Very Positive,91,39.99,True,False,False,True,19.0
+1493760,Youtubers Life 2,Mostly Positive,73,29.99,True,True,False,True,11.0
+1493800,Aircraft Carrier Survival: Tutorial,Mostly Positive,71,0.0,True,False,False,True,11.0
+1494440,Garbage: Hobo Prophecy,Mostly Positive,74,0.0,True,True,False,True,11.0
+1496790,Gotham Knights,Mixed,69,59.99,True,False,False,True,0.0
+1497640,Traitors in Salem,Mixed,64,0.0,True,True,False,True,6.0
+1498570,THE KING OF FIGHTERS XV,Very Positive,82,60.0,True,False,False,True,46.0
+1499120,I Expect You To Die 2,Overwhelmingly Positive,96,24.99,True,False,False,True,20.0
+1502190,From Space,Mostly Positive,70,14.99,True,False,False,True,0.0
+1502660,Untrusted,Very Positive,86,0.0,True,False,True,True,14.0
+1504020,Mosaique Neko Waifus 4,Overwhelmingly Positive,95,1.99,True,False,True,True,87.0
+1504500,OPUS: Echo of Starsong - Full Bloom Edition,Overwhelmingly Positive,97,24.99,True,True,False,True,100.0
+1504570,Cultivation Tales,Mostly Negative,37,19.99,True,False,False,True,15.0
+1506510,The Ramp,Overwhelmingly Positive,96,5.99,True,False,False,True,25.0
+1506830,FIFA 22,Very Positive,80,59.99,True,False,False,True,158.0
+1506980,Lay a Beauty to Rest: The Darkness Peach Blossom Spring,Overwhelmingly Positive,96,9.09,True,False,False,True,47.0
+1507970,Word Game: Episode 0,Overwhelmingly Positive,98,0.0,True,True,False,True,50.0
+1508030,Object N,Very Positive,85,0.0,True,False,True,True,6.0
+1508680,Love n War: Warlord by Chance,Very Positive,86,2.99,True,False,False,True,19.0
+1509510,Settlement Survival,Very Positive,87,19.99,True,True,False,True,52.0
+1509650,I Am Jesus Christ: Prologue,Mostly Positive,72,0.0,True,False,False,True,0.0
+1509820,Cloud Climber,Very Positive,91,0.0,True,False,False,True,77.0
+1509960,PICO PARK,Very Positive,91,5.0,True,False,False,True,158.0
+1510030,Knights College,Overwhelmingly Positive,97,24.99,True,False,False,True,10.0
+1510460,Chicken Invaders Universe,Very Positive,91,0.0,True,False,False,True,22.0
+1511270,Ann,Very Positive,94,0.0,True,False,False,True,27.0
+1511460,InfraSpace,Very Positive,87,24.99,True,False,False,True,15.0
+1511670,Enter The Backrooms,Very Positive,89,9.99,True,False,False,True,6.0
+1511780,Last Call BBS,Overwhelmingly Positive,95,19.99,True,True,True,True,17.0
+1511860,Swallow the Sea,Overwhelmingly Positive,97,0.0,True,False,True,True,40.0
+1514930,Erica,Mostly Positive,79,11.99,True,False,False,True,45.0
+1515210,The Past Within,Very Positive,94,6.0,True,True,False,True,0.0
+1516240,Mitoza,Overwhelmingly Positive,96,0.0,True,True,False,True,67.0
+1517290,Battlefield™ 2042,Mixed,40,60.0,True,False,False,True,470.0
+1517340,From The Darkness,Very Positive,91,6.99,True,False,False,True,28.0
+1517960,Rebirth:Beware of Mr.Wang,Mixed,67,8.99,True,False,False,True,23.0
+1517970,Aeterna Noctis,Very Positive,81,29.99,True,False,False,True,17.0
+1519350,Madden NFL 22,Mixed,57,59.99,True,False,False,True,10.0
+1520370,Mon Bazou,Overwhelmingly Positive,97,12.15,True,False,False,True,34.0
+1520470,Soul Dossier,Very Positive,80,0.0,True,False,False,True,23.0
+1521580,Perfect Heist 2,Very Positive,94,9.99,True,False,True,True,14.0
+1522820,Orcs Must Die! 3,Very Positive,84,29.99,True,False,False,True,190.0
+1522870,Supraland Six Inches Under,Overwhelmingly Positive,97,11.99,True,False,False,True,52.0
+1525700,Tavern Master,Very Positive,92,14.99,True,True,True,True,56.0
+1526490,Fear Surrounds,Very Positive,87,7.99,True,False,False,True,26.0
+1526520,大秦帝国,Very Positive,82,0.0,True,False,False,True,4.0
+1527910,Gladio and Glory,Very Positive,91,0.0,True,True,False,True,47.0
+1528080,Gas Station Simulator: Prologue - Early Days,Very Positive,89,0.0,True,False,False,True,21.0
+1528130,Suicide Countdown: 7 Days,Very Positive,83,2.99,True,True,True,True,28.0
+1530140,Aventura Copilului Albastru și Urât,Overwhelmingly Positive,99,1.99,True,False,False,True,10.0
+1531430,Paragon: The Overprime,Mixed,58,0.0,True,False,False,True,0.0
+1531540,Distant Worlds 2,Mostly Positive,70,50.0,True,False,False,True,20.0
+1531720,Need for Drive - Open World Multiplayer Racing,Mixed,65,3.99,True,True,False,True,5.0
+1532690,BLACKTAIL,Very Positive,83,13.0,True,False,False,True,0.0
+1533420,Neon White,Overwhelmingly Positive,98,24.99,True,False,False,True,198.0
+1535560,Farmer Against Potatoes Idle,Overwhelmingly Positive,96,0.0,True,False,False,True,0.0
+1536070,Sword and Fairy 3,Very Positive,84,7.99,True,False,False,True,18.0
+1536610,OpenTTD,Overwhelmingly Positive,96,0.0,True,True,True,True,67.0
+1538460,Sword and Fairy 2,Very Positive,88,5.99,True,False,False,True,15.0
+1538570,Patron,Mostly Positive,75,19.99,True,False,False,True,26.0
+1540150,Crazy Flasher Series 2021,Very Positive,89,0.99,True,False,False,True,53.0
+1541250,Super Raft Boat Classic,Very Positive,93,0.0,True,True,False,True,13.0
+1543030,Sword and Fairy 7,Mostly Positive,71,29.99,True,False,False,True,122.0
+1544020,The Callisto Protocol™,Mixed,62,59.99,True,False,False,True,0.0
+1544360,LEGO® Builder's Journey,Very Positive,83,6.79,True,False,False,True,71.0
+1545450,Incredibox,Overwhelmingly Positive,97,4.99,True,True,False,True,25.0
+1546010,Fallen girl - Black rose and the fire of desire,Mostly Positive,71,14.99,True,False,False,True,32.0
+1546320,Your Chronicle,Very Positive,80,0.0,True,True,True,True,13.0
+1546570,Sword and Fairy,Overwhelmingly Positive,97,4.99,True,False,False,True,40.0
+1546860,Saiko no sutoka,Overwhelmingly Positive,95,4.99,True,False,False,True,1.0
+1547890,Let's Build a Zoo,Very Positive,89,19.99,True,False,False,True,26.0
+1549180,Propnight,Mixed,67,9.99,True,False,False,True,90.0
+1549250,UNDECEMBER,Mixed,49,0.0,True,False,False,True,0.0
+1549970,Aliens: Fireteam Elite,Very Positive,81,15.0,True,False,False,True,280.0
+1550710,Warbox,Mostly Positive,71,9.99,True,False,False,True,21.0
+1551360,Forza Horizon 5,Very Positive,88,60.0,True,False,False,True,598.0
+1552350,The Jackbox Party Pack 8,Very Positive,90,30.0,True,True,True,True,36.0
+1552550,Castlevania Advance Collection,Very Positive,92,19.99,True,False,False,True,39.0
+1554790,Coloring Game 4,Very Positive,94,0.0,True,False,False,True,30.0
+1554840,Toree 3D,Overwhelmingly Positive,96,0.99,True,False,False,True,25.0
+1555710,OMFG: One Million Fatal Guns,Very Positive,94,0.0,True,False,False,True,39.0
+1556200,Predator: Hunting Grounds,Mostly Positive,78,7.0,True,False,False,True,26.0
+1556790,Isonzo,Very Positive,84,15.0,True,True,True,True,0.0
+1556980,Internet Generation,Very Positive,83,19.99,True,False,False,True,0.0
+1557740,ROUNDS,Overwhelmingly Positive,95,6.0,True,False,False,True,190.0
+1557990,Retail Royale,Mostly Positive,78,0.0,True,False,False,True,20.0
+1559390,Fate Seeker II,Very Positive,90,22.6,True,False,False,True,119.0
+1560500,Badlanders,Mixed,60,0.0,True,False,False,True,5.0
+1562420,FOREWARNED,Very Positive,92,12.99,True,False,False,True,59.0
+1562700,SANABI,Overwhelmingly Positive,96,14.99,True,False,False,True,16.0
+1563130,SuperPower 3,Overwhelmingly Negative,10,29.99,True,False,False,True,0.0
+1563180,Internet Cafe Simulator 2,Mostly Positive,73,19.99,True,False,False,True,36.0
+1566390,Seed of the Dead: Sweet Home,Very Positive,83,29.99,True,False,False,True,30.0
+1566410,Touhou Kouryudou ~ Unconnected Marketeers.,Overwhelmingly Positive,97,14.99,True,False,False,True,26.0
+1567020,The Dark Pictures Anthology: The Devil in Me,Mixed,56,39.99,True,False,False,True,0.0
+1567800,星空列车与白的旅行,Overwhelmingly Positive,99,19.99,True,False,False,True,40.0
+1568540,Smithworks,Very Positive,94,0.0,True,True,False,True,11.0
+1568590,Goose Goose Duck,Very Positive,87,0.0,True,True,False,True,83.0
+1569090,Vivid Knight,Very Positive,90,14.99,True,True,False,True,29.0
+1570010,FAR: Changing Tides,Very Positive,93,19.99,True,False,False,True,32.0
+1570070,Beholder 3,Mixed,68,14.99,True,False,False,True,25.0
+1571440,Lunch Lady,Very Positive,87,4.99,True,False,False,True,105.0
+1574000,Industry Idle,Mostly Positive,78,0.0,True,True,True,True,16.0
+1574270,Sucker for Love: First Date,Overwhelmingly Positive,98,9.99,True,False,False,True,33.0
+1574580,Strange Horticulture,Overwhelmingly Positive,95,14.99,True,True,False,True,72.0
+1574700,Motorcycle Mechanic Simulator 2021: Prologue,Very Positive,86,0.0,True,False,False,True,15.0
+1575870,UpGun,Very Positive,85,0.0,True,False,False,True,5.0
+1576060,Suspects: Mystery Mansion,Very Positive,80,4.99,True,False,False,True,2.0
+1577120,The Quarry,Very Positive,80,20.0,True,False,False,True,131.0
+1578390,My Garage,Very Positive,91,19.99,True,False,False,True,1.0
+1578650,Citizen Sleeper,Very Positive,94,11.99,True,True,False,True,29.0
+1578860,Billionaire Lovers,Overwhelmingly Positive,95,2.99,True,True,True,True,31.0
+1579380,Shadow Tactics: Aiko's Choice,Very Positive,92,6.79,True,False,True,True,55.0
+1580240,Rune Factory 4 Special,Very Positive,89,29.99,True,False,False,True,27.0
+1580520,Lost Eidolons,Mostly Positive,76,34.99,True,False,False,True,0.0
+1580790,[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2,Mostly Positive,75,39.99,True,False,False,True,21.0
+1580970,Samorost 1,Overwhelmingly Positive,96,0.0,True,True,False,True,71.0
+1582620,Mega Man X DiVE,Mixed,56,0.0,True,False,False,True,13.0
+1583230,High On Life,Very Positive,89,60.0,True,False,False,True,0.0
+1583280,Hog Hunter 2021,Very Positive,94,0.0,True,False,False,True,5.0
+1583320,Pro Soccer Online,Very Positive,92,9.99,True,False,False,True,14.0
+1583720,Entropy : Zero 2,Overwhelmingly Positive,98,0.0,True,False,False,True,0.0
+1584090,Touhou Mystia's Izakaya,Overwhelmingly Positive,98,5.99,True,True,False,True,118.0
+1585220,Melatonin,Overwhelmingly Positive,95,15.0,True,True,False,True,0.0
+1586800,Lil Gator Game,Overwhelmingly Positive,99,19.99,True,False,False,True,0.0
+1587130,Blood West,Very Positive,91,14.99,True,False,False,True,42.0
+1587560,100 hidden cats,Very Positive,93,0.99,True,False,False,True,39.0
+1588010,PGA TOUR 2K23,Mostly Positive,70,20.0,True,False,False,True,0.0
+1588530,Dungeon Alchemist,Overwhelmingly Positive,95,45.0,True,True,True,True,9.0
+1590320,Bro Falls,Mostly Positive,78,0.0,True,False,False,True,87.0
+1590360,He Needs His Medicine,Very Positive,80,0.0,True,True,True,True,9.0
+1590910,Forgive Me Father,Very Positive,86,19.99,True,False,False,True,47.0
+1591290,Tree Simulator 2022,Overwhelmingly Positive,97,2.99,True,False,False,True,15.0
+1591420,Hmmsim Metro,Very Positive,91,19.99,True,False,False,True,1.0
+1591520,Clownfield 2042,Very Positive,86,0.99,True,False,False,True,93.0
+1591530,SAMURAI WARRIORS 5,Very Positive,83,59.99,True,False,False,True,28.0
+1592190,BONELAB,Mostly Positive,76,40.0,True,False,False,True,0.0
+1592670,Soda Crisis,Very Positive,93,10.99,True,False,False,True,37.0
+1593310,NEKOPARA - Catboys Paradise,Very Positive,90,0.0,True,False,False,True,61.0
+1593500,God of War,Overwhelmingly Positive,96,50.0,True,False,False,True,968.0
+1594320,Captain of Industry,Very Positive,93,29.99,True,False,False,True,22.0
+1594940,Little Witch in the Woods,Very Positive,91,15.99,True,True,False,True,43.0
+1596310,Crypto Mining Simulator,Mostly Positive,72,9.99,True,False,False,True,6.0
+1596850,Bean,Very Positive,86,0.0,True,False,False,True,11.0
+1597480,Zombie Gunship Survival,Mixed,45,0.0,True,False,False,True,3.0
+1599340,Lost Ark,Mostly Positive,71,0.0,True,False,False,True,813.0
+1599600,PlateUp!,Overwhelmingly Positive,95,20.0,True,False,False,True,0.0
+1599660,Sackboy™: A Big Adventure,Very Positive,85,60.0,True,False,False,True,0.0
+1600530,3D Aim Trainer,Very Positive,87,0.0,True,False,False,True,8.0
+1602010,Persona 4 Arena Ultimax,Very Positive,84,29.99,True,False,False,True,58.0
+1602080,Soulstice,Mostly Positive,79,23.99,True,False,False,True,0.0
+1603980,If On A Winter's Night Four Travelers,Overwhelmingly Positive,96,0.0,True,False,True,True,33.0
+1604000,Milk outside a bag of milk outside a bag of milk,Overwhelmingly Positive,97,2.24,True,True,True,True,161.0
+1604030,V Rising,Very Positive,88,20.0,True,False,False,True,671.0
+1605010,Adorable Witch,Very Positive,90,1.99,True,False,False,True,42.0
+1605220,Dune: Spice Wars,Very Positive,81,30.0,True,False,False,True,94.0
+1607280,YUME 2 : Sleepless Night,Mixed,50,3.99,True,False,False,True,8.0
+1608070,CRISIS CORE –FINAL FANTASY VII– REUNION,Very Positive,90,50.0,True,False,False,True,0.0
+1608290,GNOSIA,Very Positive,94,24.99,True,False,False,True,48.0
+1609080,Summer of '58,Very Positive,91,8.99,True,False,False,True,54.0
+1609230,Scarlet Hollow,Overwhelmingly Positive,98,24.99,True,True,True,True,5.0
+1610870,Chair Simulator,Very Positive,89,0.0,True,True,False,True,39.0
+1610900,The Genesis Project,Very Positive,86,0.0,True,True,True,True,5.0
+1611410,Stardom 3,Very Positive,93,12.99,True,False,False,True,6.0
+1611430,The Bridge Curse Road to Salvation,Very Positive,89,19.99,True,False,False,True,0.0
+1611490,[Chilla's Art] Night Delivery | 例外配達,Very Positive,81,2.99,True,False,False,True,17.0
+1611600,WARNO,Very Positive,82,40.0,True,False,False,True,43.0
+1611910,Warhammer 40000: Chaos Gate - Daemonhunters,Mostly Positive,78,45.0,True,False,False,True,117.0
+1612620,Never Return,Mostly Positive,78,9.79,True,False,False,True,20.0
+1614550,Astro Colony,Very Positive,84,19.99,True,False,False,True,0.0
+1614730,TM - Prologue,Very Positive,93,0.0,True,True,False,True,5.0
+1615100,The Last Stand Legacy Collection,Very Positive,90,9.99,True,True,False,True,28.0
+1615290,Ravenous Devils,Very Positive,93,4.99,True,False,False,True,109.0
+1618230,恋爱关系/Romance,Very Positive,87,3.99,True,False,False,True,38.0
+1618540,Ghost Exorcism INC.,Mostly Positive,75,17.99,True,False,False,True,53.0
+1620340,Wrestling Empire,Overwhelmingly Positive,95,19.99,True,False,False,True,10.0
+1621070,DeadPoly,Very Positive,81,9.99,True,False,False,True,13.0
+1621310,Atelier Sophie 2: The Alchemist of the Mysterious Dream,Overwhelmingly Positive,95,59.99,True,False,False,True,27.0
+1621690,Core Keeper,Very Positive,91,16.0,True,False,True,True,231.0
+1623660,MIR4,Mixed,64,0.0,True,False,False,True,28.0
+1625080,Have a Nice Dream,Very Positive,93,0.0,True,False,False,True,11.0
+1625450,Muck,Very Positive,94,0.0,True,True,True,True,416.0
+1626890,坏小孩,Overwhelmingly Positive,97,2.99,True,False,False,True,34.0
+1628620,World Boss,Mixed,64,0.0,True,False,False,True,0.0
+1629520,A Little to the Left,Very Positive,89,15.0,True,True,False,True,0.0
+1629530,Spark the Electric Jester 3,Overwhelmingly Positive,97,24.99,True,False,False,True,0.0
+1630920,Bright Lights of Svetlov,Very Positive,93,4.99,True,False,False,True,16.0
+1634150,Behind the Frame: The Finest Scenery,Overwhelmingly Positive,95,12.99,True,True,False,True,112.0
+1634680,Ficket: 追剧引擎,Mostly Positive,73,3.99,True,False,False,True,17.0
+1635450,Longvinter,Mixed,68,17.99,True,False,False,True,19.0
+1637320,Dome Keeper,Very Positive,90,18.0,True,True,True,True,0.0
+1637730,Crystal Project,Very Positive,92,13.99,True,True,True,True,16.0
+1638220,Xuan-Yuan Sword: The Scar of Sky,Very Positive,93,9.99,True,False,False,True,16.0
+1638660,Blood Spear,Overwhelmingly Positive,95,0.0,True,False,False,True,26.0
+1639430,Princess&Blade,Very Positive,81,9.99,True,False,False,True,4.0
+1639790,Northern Journey,Overwhelmingly Positive,96,11.99,True,False,False,True,32.0
+1641270,枝江往事,Overwhelmingly Positive,97,0.0,True,True,False,True,54.0
+1641650,Airline Manager 4,Mixed,67,0.0,True,False,False,True,3.0
+1644490,Occult,Mostly Positive,76,4.99,True,False,False,True,13.0
+1644960,NBA 2K22,Mixed,58,59.99,True,False,False,True,40.0
+1644990,Be Funny Now!,Mixed,63,0.0,True,False,False,True,20.0
+1645820,SurrounDead,Very Positive,91,15.99,True,False,True,True,5.0
+1648390,ScooterFlow,Overwhelmingly Positive,95,13.99,True,False,False,True,2.0
+1648590,UndercoverAgent,Very Positive,82,7.99,True,False,False,True,22.0
+1649080,Two Point Campus,Very Positive,88,30.0,True,True,True,True,0.0
+1649730,xiuzhen idle,Mostly Positive,72,3.99,True,False,False,True,6.0
+1651960,Hextech Mayhem: A League of Legends Story™,Very Positive,81,9.99,True,False,False,True,34.0
+1655140,Alpaca Stacka,Overwhelmingly Positive,97,0.0,True,True,False,True,75.0
+1656780,Hero's Hour,Mostly Positive,78,17.99,True,False,False,True,50.0
+1657630,Slime Rancher 2,Overwhelmingly Positive,95,22.0,True,False,False,True,0.0
+1658290,Eiyuden Chronicle: Rising,Very Positive,87,14.99,True,False,False,True,20.0
+1659040,HITMAN 3,Very Positive,84,35.0,True,False,False,True,116.0
+1659420,UNCHARTED™: Legacy of Thieves Collection,Very Positive,89,50.0,True,False,False,True,0.0
+1661260,Animal Shelter: Prologue,Very Positive,91,0.0,True,False,False,True,13.0
+1662840,PARQUET,Overwhelmingly Positive,96,16.99,True,False,False,True,59.0
+1664220,TRAIL OUT,Very Positive,84,19.99,True,False,False,True,0.0
+1664350,Ship Graveyard Simulator: Prologue,Very Positive,86,0.0,True,False,False,True,6.0
+1665190,Monster Prom 3: Monster Roadtrip,Overwhelmingly Positive,99,8.99,True,True,True,True,0.0
+1665460,eFootball™ 2024,Mostly Negative,37,0.0,True,False,False,True,36.0
+1668690,Alina of the Arena,Very Positive,91,14.99,True,True,False,True,33.0
+1670870,MADiSON,Very Positive,87,34.99,True,False,False,True,31.0
+1671200,Honkai Impact 3rd,Mostly Positive,71,0.0,True,False,False,True,32.0
+1671340,Fears to Fathom - Home Alone,Very Positive,90,0.0,True,False,False,True,63.0
+1672670,彷徨之街 The Street of Adrift,Mostly Positive,76,7.99,True,False,False,True,0.0
+1672970,Minecraft Dungeons,Very Positive,91,20.0,True,False,False,True,95.0
+1674170,Sprocket,Very Positive,93,19.99,True,False,False,True,46.0
+1674890,👑 Idle Calibur 👑（选王之剑）,Very Positive,88,7.99,True,False,False,True,9.0
+1675140,Reminiscence,Very Positive,83,0.0,True,False,False,True,13.0
+1677740,Stumble Guys,Very Positive,86,0.0,True,False,False,True,89.0
+1677770,The Case of the Golden Idol,Overwhelmingly Positive,98,18.0,True,True,False,True,0.0
+1679290,Fire & Maneuver,Mostly Positive,79,0.0,True,False,False,True,7.0
+1680550,Impact Point,Very Positive,91,0.0,True,False,False,True,4.0
+1681160,Piratopia,Very Positive,86,0.0,True,True,False,True,12.0
+1681970,神都不良探 Underdog Detective,Mostly Positive,70,6.39,True,True,False,True,25.0
+1683860,Eronoctosis: Put Yourself Together,Overwhelmingly Positive,95,0.0,True,False,False,True,24.0
+1684930,CULTIC,Overwhelmingly Positive,98,9.99,True,False,False,True,0.0
+1686820,Arena of Kings,Mostly Positive,75,0.0,True,False,False,True,21.0
+1687950,Persona 5 Royal,Overwhelmingly Positive,97,60.0,True,False,False,True,0.0
+1689910,Dōkyūsei: Bangin' Summer,Overwhelmingly Positive,95,19.99,True,False,False,True,27.0
+1692070,CROWZ,Mixed,42,0.0,True,False,False,True,19.0
+1692250,F1® 22,Mixed,68,59.99,True,False,False,True,41.0
+1694200,Dragon And Home,Mixed,60,0.0,True,False,False,True,3.0
+1694420,Card Survival: Tropical Island,Overwhelmingly Positive,97,24.99,True,True,False,True,1.0
+1694600,THE HOUSE OF THE DEAD: Remake,Mostly Positive,73,24.99,True,False,False,True,30.0
+1695840,Fear Therapy,Mostly Positive,72,2.99,True,False,False,True,11.0
+1696810,Railroads Online,Very Positive,82,34.99,True,False,False,True,7.0
+1697700,Who's Lila?,Overwhelmingly Positive,95,11.99,True,False,False,True,27.0
+1698960,Project Kat - Paper Lily Prologue,Overwhelmingly Positive,99,0.0,True,False,False,True,44.0
+1699200,Zombie Carnage 2,Mixed,64,0.0,True,False,False,True,2.0
+1700870,Clanfolk,Very Positive,89,19.99,True,False,False,True,20.0
+1701380,Cricket 22,Mostly Positive,78,44.99,True,False,False,True,2.0
+1702320,PIGGY: Hunt,Very Positive,81,0.0,True,False,False,True,8.0
+1702330,Rune Factory 5,Very Positive,81,49.99,True,False,False,True,20.0
+1703340,The Stanley Parable: Ultra Deluxe,Very Positive,94,25.0,True,True,True,True,402.0
+1705180,Gunner HEAT PC!,Very Positive,92,29.99,True,False,False,True,0.0
+1706930,A Taste of the Past,Overwhelmingly Positive,98,0.0,True,False,False,True,9.0
+1708520,F1® Manager 2022,Mostly Positive,73,54.99,True,False,False,True,0.0
+1708870,第七号列车 - Train No. 7,Overwhelmingly Positive,97,0.0,True,False,False,True,82.0
+1710170,Blade of Darkness,Very Positive,94,14.99,True,False,False,True,14.0
+1710930,Bubble People,Very Positive,93,0.0,True,False,False,True,87.0
+1711610,Dungeon 100,Very Positive,86,11.99,True,False,False,True,0.0
+1711950,GWENT: Rogue Mage (Single-Player Expansion),Mixed,55,9.99,True,False,False,True,8.0
+1712830,Baldi's Basics Classic Remastered,Very Positive,94,0.0,True,True,True,True,0.0
+1713610,Purrgatory,Overwhelmingly Positive,98,0.0,True,False,False,True,17.0
+1714040,Super Auto Pets,Very Positive,90,0.0,True,True,True,True,172.0
+1714320,Find Love or Die Trying,Overwhelmingly Positive,96,0.0,True,True,True,True,58.0
+1715130,Crysis Remastered,Mostly Positive,71,13.49,True,False,False,True,77.0
+1715460,Touhou Hero of Ice Fairy: Prologue,Overwhelmingly Positive,97,0.0,True,False,False,True,31.0
+1715730,Boo Men,Very Positive,87,7.99,True,False,False,True,0.0
+1717990,Fangs,Mixed,45,0.0,True,False,False,True,0.0
+1718130,SCP: Secret Files,Very Positive,90,14.99,True,False,False,True,0.0
+1718570,ASTLIBRA Revision,Overwhelmingly Positive,96,24.99,True,False,False,True,0.0
+1718870,Spaceflight Simulator,Overwhelmingly Positive,96,11.99,True,True,False,True,5.0
+1720050,Dodge It!,Very Positive,90,0.0,True,False,False,True,10.0
+1721470,Poppy Playtime,Mostly Positive,78,0.0,True,False,False,True,200.0
+1722570,Jerma's Big Adventure,Overwhelmingly Positive,98,0.0,True,False,False,True,17.0
+1723260,CaseCracker,Overwhelmingly Positive,95,9.99,True,False,False,True,17.0
+1726400,The Death | Thần Trùng,Very Positive,93,5.99,True,True,False,True,0.0
+1727650,死寂（Deathly Stillness）,Overwhelmingly Positive,96,0.0,True,False,False,True,166.0
+1730590,The Entropy Centre,Very Positive,92,24.99,True,False,False,True,0.0
+1730680,Klonoa Phantasy Reverie Series,Overwhelmingly Positive,97,39.99,True,False,False,True,15.0
+1731070,Asterigos: Curse of the Stars,Very Positive,82,34.99,True,False,False,True,0.0
+1731520,Ark Mobius: Censored Edition,Very Positive,94,4.99,True,False,False,True,23.0
+1732190,FATAL FRAME / PROJECT ZERO: Maiden of Black Water,Mostly Positive,79,39.99,True,False,False,True,69.0
+1732740,Sakura Hime,Very Positive,93,2.79,True,False,False,True,32.0
+1735950,Paper Bride,Very Positive,91,7.99,True,False,False,True,22.0
+1740100,At Home Alone Final,Overwhelmingly Positive,97,0.0,True,False,False,True,59.0
+1743850,HYPER DEMON,Overwhelmingly Positive,95,14.99,True,False,False,True,0.0
+1745510,Lunacid,Overwhelmingly Positive,96,6.99,True,False,False,True,23.0
+1747650,The Darkest Tales — Into the Nightmare,Very Positive,85,0.0,True,False,False,True,15.0
+1749630,Chill Corner,Very Positive,91,0.0,True,False,False,True,72.0
+1754720,英雄黄昏-文字三国志&曹贼模拟器,Overwhelmingly Positive,97,0.0,True,False,False,True,9.0
+1759440,Babble Royale,Very Positive,81,0.0,True,True,False,True,15.0
+1760250,Madden NFL 23,Mixed,52,59.99,True,False,False,True,0.0
+1761390,Hatsune Miku: Project DIVA Mega Mix+,Very Positive,92,39.39,True,False,False,True,94.0
+1763050,Fears to Fathom - Norwood Hitchhike,Very Positive,87,2.99,True,False,False,True,32.0
+1763620,Obama,Very Positive,89,0.0,True,False,False,True,3.0
+1764390,BAD END THEATER,Overwhelmingly Positive,97,9.99,True,True,True,True,72.0
+1764530,Sailwind,Very Positive,92,19.99,True,False,False,True,12.0
+1766740,Choo-Choo Charles,Very Positive,92,19.99,True,False,False,True,0.0
+1768550,Alien Removal Division,Very Positive,87,0.0,True,False,False,True,16.0
+1769420,Noble Fates,Very Positive,83,24.99,True,False,False,True,19.0
+1772820,Mushy,Very Positive,87,0.0,True,True,False,True,14.0
+1776160,You Will (Not) Remain,Very Positive,91,0.0,True,False,False,True,36.0
+1776380,STAR OCEAN THE DIVINE FORCE,Mixed,68,59.99,True,False,False,True,0.0
+1776970,Tsuki ni Yorisou Otome no Sahou,Overwhelmingly Positive,98,27.99,True,False,False,True,27.0
+1777430,恋爱绮谭 不存在的真相,Overwhelmingly Positive,96,13.99,True,False,False,True,0.0
+1777620,Soul Hackers 2,Mixed,66,59.99,True,False,False,True,0.0
+1777760,Soccer Manager 2022,Mostly Positive,71,0.0,True,False,False,True,0.0
+1781160,Electrician Simulator - First Shock,Very Positive,82,0.0,True,False,False,True,12.0
+1782120,ZERO Sievert,Very Positive,90,19.99,True,False,False,True,0.0
+1782210,Crab Game,Very Positive,92,0.0,True,True,True,True,911.0
+1785820,Urbek City Builder: Prologue,Overwhelmingly Positive,95,0.0,True,False,False,True,8.0
+1786790,Magical Girl Celesphonia,Overwhelmingly Positive,96,15.99,True,False,False,True,18.0
+1787090,MyDockFinder,Mostly Positive,73,4.99,True,False,False,True,7.0
+1787820,Mirror Party,Mixed,62,1.99,True,False,False,True,27.0
+1789480,Marauders,Mostly Positive,76,30.0,True,False,False,True,0.0
+1792010,The Timeless Child - Prologue,Very Positive,82,0.0,True,False,False,True,13.0
+1792250,Serious Sam: Siberian Mayhem,Very Positive,93,19.99,True,False,False,True,72.0
+1794680,Vampire Survivors,Overwhelmingly Positive,98,5.0,True,True,False,True,622.0
+1794960,Sonic Origins,Mixed,66,29.99,True,False,False,True,27.0
+1797880,Lost Light,Mixed,57,0.0,True,False,False,True,0.0
+1800730,I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1,Overwhelmingly Positive,98,0.0,True,False,True,True,25.0
+1801650,Lost: Find,Very Positive,88,3.99,True,False,False,True,24.0
+1802720,Sixtar Gate: STARTRAIL,Overwhelmingly Positive,95,24.99,True,False,False,True,9.0
+1803190,SimRail - The Railway Simulator: Prologue,Very Positive,82,0.0,True,False,False,True,5.0
+1806040,Snake Force,Overwhelmingly Positive,97,0.0,True,True,False,True,47.0
+1806840,100 hidden frogs,Overwhelmingly Positive,98,0.0,True,False,False,True,76.0
+1807080,Ghost Exile,Very Positive,88,14.99,True,False,False,True,12.0
+1807750,封神榜2022,Very Positive,92,9.99,True,False,False,True,2.0
+1808060,Obama Maze,Very Positive,90,0.0,True,False,False,True,0.0
+1808120,THE BUTTON,Very Positive,89,0.0,True,False,False,True,30.0
+1808800,Duck Simulator 2,Overwhelmingly Positive,96,0.0,True,True,True,True,29.0
+1810580,Nobody - The Turnaround,Mixed,66,0.0,True,True,False,True,0.0
+1811260,EA SPORTS™ FIFA 23,Mixed,54,70.0,True,False,False,True,0.0
+1811950,The Legend of Heroes: Kuro no Kiseki,Very Positive,93,49.99,True,False,False,True,4.0
+1812390,The Elder Scrolls II: Daggerfall,Very Positive,88,0.0,True,False,False,True,26.0
+1812620,DSX,Mostly Positive,76,4.99,True,False,False,True,5.0
+1812820,Bitburner,Overwhelmingly Positive,95,0.0,True,True,True,True,70.0
+1815780,Asphalt 9: Legends,Very Positive,81,0.0,True,False,False,True,0.0
+1816300,HARVESTELLA,Mostly Positive,78,59.99,True,False,False,True,0.0
+1816670,GUNDAM EVOLUTION,Mixed,52,0.0,True,False,False,True,0.0
+1817070,Marvel’s Spider-Man Remastered,Overwhelmingly Positive,96,60.0,True,False,False,True,0.0
+1817190,Marvel’s Spider-Man: Miles Morales,Very Positive,94,50.0,True,False,False,True,0.0
+1817940,Love Delivery,Overwhelmingly Positive,96,14.99,True,False,False,True,5.0
+1818450,STALCRAFT,Mostly Positive,73,0.0,True,False,False,True,0.0
+1818750,MultiVersus,Very Positive,87,0.0,True,False,False,True,12.0
+1819570,Eraser,Very Positive,85,0.0,True,False,False,True,17.0
+1822910,Capybara Spa,Overwhelmingly Positive,97,7.99,True,False,False,True,12.0
+1824220,Chivalry 2,Very Positive,82,40.0,True,False,False,True,270.0
+1826980,FreestyleFootball R,Mostly Positive,70,0.0,True,False,False,True,0.0
+1827180,Toram Online,Mostly Positive,79,0.0,True,False,False,True,19.0
+1827680,枝江畔之梦,Overwhelmingly Positive,98,0.0,True,False,False,True,9.0
+1827980,Idle Spiral,Very Positive,82,0.0,True,False,False,True,10.0
+1829980,Café Stella and the Reaper's Butterflies,Overwhelmingly Positive,98,34.99,True,False,False,True,54.0
+1830840,The Planet Crafter: Prologue,Overwhelmingly Positive,96,0.0,True,False,False,True,43.0
+1832640,Mirror 2: Project X,Mostly Negative,26,1.99,True,False,False,True,123.0
+1834870,Lily's Well,Overwhelmingly Positive,97,0.0,True,False,False,True,18.0
+1836450,Monster Hunter Rise: Sunbreak Demo,Very Positive,82,0.0,True,False,False,True,16.0
+1837200,YTBB,Mixed,59,0.0,True,False,False,True,3.0
+1839660,Crystal Clash,Very Positive,83,0.0,True,False,False,True,10.0
+1840660,Mad Adventures,Very Positive,93,0.0,True,False,False,True,0.0
+1843090,[Chilla's Art] The Closing Shift | 閉店事件,Very Positive,87,5.99,True,False,False,True,24.0
+1843760,Rogue Tower,Very Positive,82,14.99,True,False,False,True,39.0
+1846170,Iron Lung,Very Positive,93,5.99,True,False,False,True,105.0
+1846380,Need for Speed™ Unbound,Mixed,62,21.0,True,False,False,True,0.0
+1848450,Nightmare of Decay,Overwhelmingly Positive,97,4.99,True,False,False,True,61.0
+1849900,Among Us VR,Mostly Positive,77,9.99,True,False,False,True,0.0
+1850480,Cut,Overwhelmingly Positive,96,0.0,True,False,False,True,10.0
+1850510,TRIANGLE STRATEGY,Very Positive,80,30.0,True,False,False,True,0.0
+1850570,DEATH STRANDING DIRECTOR'S CUT,Very Positive,93,19.99,True,False,False,True,188.0
+1850740,Ghost Watchers,Very Positive,87,14.99,True,False,False,True,0.0
+1851280,Samurai Bringer,Very Positive,88,9.99,True,False,False,True,19.0
+1853200,TYRONE vs COPS,Overwhelmingly Positive,96,0.99,True,False,True,True,18.0
+1854430,How Fish Is Made,Overwhelmingly Positive,95,0.0,True,False,False,True,25.0
+1860570,With You,Very Positive,90,0.0,True,True,True,True,11.0
+1860860,Flower girl 2,Very Positive,83,0.0,True,False,False,True,1.0
+1862520,Just Go,Very Positive,93,9.99,True,False,False,True,0.0
+1863750,挂机神话,Very Positive,92,1.99,True,False,False,True,10.0
+1865370,The one who pulls out the sword will be crowned king,Very Positive,91,0.0,True,True,True,True,101.0
+1865440,Cave Crawler,Overwhelmingly Positive,95,0.0,True,False,False,True,58.0
+1865780,Downfall - A Slay the Spire Fan Expansion,Overwhelmingly Positive,97,0.0,True,False,True,True,37.0
+1866180,Hooked on You: A Dead by Daylight Dating Sim™,Very Positive,90,9.99,True,False,False,True,0.0
+1868000,Resist the succubus—The end of the female Knight,Mostly Positive,78,16.99,True,False,False,True,11.0
+1873030,Wolfenstein: Enemy Territory,Very Positive,84,2.99,True,False,False,True,17.0
+1874170,Shredders,Overwhelmingly Positive,96,29.99,True,False,False,True,17.0
+1874490,Potionomics,Very Positive,89,24.99,True,False,False,True,0.0
+1874880,Arma Reforger,Mixed,59,29.99,True,False,False,True,64.0
+1877960,Trimps,Very Positive,92,0.0,True,False,False,True,11.0
+1879330,WARRIORS OROCHI 3 Ultimate Definitive Edition,Very Positive,89,39.99,True,False,False,True,21.0
+1881200,TRYP FPV : The Drone Racer Simulator,Very Positive,90,14.99,True,True,False,True,0.0
+1883260,Little Noah: Scion of Paradise,Overwhelmingly Positive,95,14.99,True,False,False,True,18.0
+1887930,Idle Monster TD: Evolved,Very Positive,80,0.0,True,True,False,True,2.0
+1891700,Tap Ninja - Idle game,Very Positive,90,0.0,True,True,True,True,38.0
+1895130,Darza's Dominion,Mixed,62,0.0,True,False,False,True,7.0
+1895300,Shinobi Warfare,Overwhelmingly Positive,95,0.0,True,False,False,True,0.0
+1896700,Wylde Flowers,Overwhelmingly Positive,96,24.99,True,False,False,True,0.0
+1900340,Ten Trials of Babel: The Doppelganger Maze,Very Positive,93,2.99,True,True,False,True,19.0
+1901370,Ib,Overwhelmingly Positive,99,12.99,True,False,False,True,19.0
+1902710,Weird RPG,Very Positive,94,10.99,True,False,False,True,0.0
+1904540,Football Manager 2023,Very Positive,88,60.0,True,True,False,True,0.0
+1904820,Prison Life,Very Positive,81,0.0,True,False,False,True,7.0
+1904860,Legends of Kingdom Rush,Mixed,66,14.99,True,True,False,True,7.0
+1905180,OBS Studio,Overwhelmingly Positive,95,0.0,True,True,False,True,96.0
+1910580,click to ten,Overwhelmingly Positive,95,0.0,True,False,False,True,38.0
+1911390,Knightfall: A Daring Journey,Very Positive,90,5.99,True,False,False,True,91.0
+1913730,Chimeraland,Mixed,66,0.0,True,False,False,True,8.0
+1917090,Lights Off!,Very Positive,86,0.0,True,False,False,True,9.0
+1918680,Sword and Fairy Inn 2,Mixed,47,19.99,True,False,False,True,15.0
+1919460,Seraph's Last Stand,Very Positive,94,0.99,True,False,False,True,37.0
+1919590,NBA 2K23,Mixed,64,60.0,True,False,False,True,0.0
+1920480,River City Girls 2,Very Positive,82,39.99,True,False,False,True,0.0
+1922560,Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Very Positive,89,30.0,True,False,False,True,118.0
+1927720,Monument Valley: Panoramic Edition,Overwhelmingly Positive,99,6.39,True,False,False,True,21.0
+1927780,Galaxy Life,Very Positive,89,0.0,True,False,False,True,0.0
+1929870,Nomad Survival,Very Positive,89,2.99,True,False,False,True,30.0
+1930600,Beautiful Mystic Survivors,Mostly Positive,72,4.99,True,False,False,True,0.0
+1930640,Lost2,Very Positive,85,15.99,True,False,False,True,0.0
+1933650,The Imperial Gatekeeper,Very Positive,80,10.39,True,False,False,True,0.0
+1935660,Chop Goblins,Overwhelmingly Positive,98,4.99,True,False,False,True,0.0
+1938090,Call of Duty®,Mixed,59,0.0,True,False,False,True,0.0
+1939160,Shadows Over Loathing,Overwhelmingly Positive,96,22.99,True,True,False,True,0.0
+1939560,镇邪,Very Positive,91,14.99,True,False,False,True,0.0
+1943950,Escape the Backrooms,Very Positive,90,10.0,True,False,False,True,0.0
+1944790,Train Sim World® 3,Mostly Positive,79,40.0,True,False,False,True,0.0
+1948280,Stacklands,Overwhelmingly Positive,96,8.0,True,True,False,True,164.0
+1948800,Yi Xian: The Cultivation Card Game,Mostly Positive,76,7.99,True,False,False,True,0.0
+1949190,Necrosmith,Very Positive,88,2.99,True,False,False,True,39.0
+1949740,Banana Shooter,Very Positive,91,0.0,True,False,False,True,26.0
+1953520,WRC Generations – The FIA WRC Official Game,Mixed,68,39.99,True,False,False,True,0.0
+1954200,Kena: Bridge of Spirits,Very Positive,92,39.99,True,False,False,True,0.0
+1955330,Save Room - Organization Puzzle,Overwhelmingly Positive,97,2.99,True,False,True,True,29.0
+1956600,Yusetsu,Very Positive,91,16.99,True,False,False,True,0.0
+1959480,Eternal Edge+ Prologue,Very Positive,89,0.0,True,False,False,True,6.0
+1959960,Burg,Mostly Positive,77,0.0,True,False,False,True,5.0
+1961460,PROJECT: PLAYTIME,Very Positive,80,0.0,True,False,False,True,0.0
+1966900,20 Minutes Till Dawn,Very Positive,92,4.99,True,True,False,True,199.0
+1968730,Bounty of One,Very Positive,88,4.99,True,False,False,True,0.0
+1969080,A Building Full of Cats,Overwhelmingly Positive,98,1.99,True,False,True,True,20.0
+1969870,生死狙击2 - 国服,Mixed,62,0.0,True,False,False,True,29.0
+1970580,Backpack Hero,Very Positive,90,13.59,True,True,True,True,0.0
+1970980,Warlord: Britannia,Very Positive,91,19.99,True,False,False,True,7.0
+1972440,Shotgun King: The Final Checkmate,Very Positive,93,9.99,True,False,False,True,41.0
+1973710,ヘブンバーンズレッド,Very Positive,87,0.0,True,False,False,True,0.0
+1974090,Slava Ukraini!,Mostly Positive,76,0.0,True,False,False,True,7.0
+1976440,CounterSide,Mostly Positive,71,0.0,True,False,False,True,0.0
+1977530,One-armed cook,Very Positive,93,0.0,True,False,False,True,0.0
+1981570,Land of the Vikings,Very Positive,82,15.99,True,False,False,True,0.0
+1985510,Ukraine War Stories,Very Positive,88,0.0,True,False,False,True,0.0
+1985690,The Looker,Overwhelmingly Positive,97,0.0,True,True,False,True,148.0
+1986840,POPGOES Arcade,Overwhelmingly Positive,98,4.99,True,False,False,True,6.0
+1987080,Inside the Backrooms,Very Positive,85,7.0,True,False,False,True,11.0
+1997680,REFLEXIA Prototype ver.,Overwhelmingly Positive,97,0.0,True,False,True,True,0.0
+1999360,Placid Plastic Duck Simulator,Overwhelmingly Positive,98,1.99,True,False,False,True,30.0
+2004320,Duelyst II,Mostly Positive,77,0.0,True,False,True,True,0.0
+2007530,Spellbook Demonslayers,Very Positive,87,4.99,True,False,False,True,0.0
+2011470,大侠请重来,Very Positive,80,1.99,True,True,False,True,1.0
+2012840,Portal with RTX,Mixed,50,0.0,True,False,False,True,0.0
+2014780,X-Plane 12,Mostly Positive,76,60.0,True,True,True,True,0.0
+2022180,Miss Neko 3,Very Positive,92,2.99,True,False,False,True,0.0
+2022270,Bakso Simulator,Very Positive,93,0.0,True,False,False,True,4.0
+2024230,Project Lazarus,Very Positive,86,4.99,True,False,False,True,9.0
+2056560,Rock Life: The Rock Simulator,Overwhelmingly Positive,95,0.0,True,False,False,True,2.0
+2058180,Judgment,Overwhelmingly Positive,95,39.99,True,False,False,True,0.0
+2058190,Lost Judgment,Overwhelmingly Positive,95,59.99,True,False,False,True,0.0
+2059790,再刷一把 PlayAgain,Mixed,67,8.99,True,False,False,True,1.0
+2059810,Richman 4,Mixed,62,5.99,True,False,False,True,3.0
+2060130,Return to Monkey Island,Very Positive,92,24.99,True,True,True,True,0.0
+2061440,Oxygen: First Breath,Very Positive,91,0.0,True,False,False,True,0.0
+2064650,Tower of Fantasy,Mostly Positive,71,0.0,True,False,False,True,0.0
+2066020,Soulstone Survivors,Very Positive,90,9.99,True,True,True,True,0.0
+2066550,ERROR143,Overwhelmingly Positive,95,0.0,True,True,True,True,1.0
+2067920,Rogue: Genesia,Very Positive,93,4.99,True,False,True,True,0.0
+2068280,Nordic Ashes: Survivors of Ragnarok,Very Positive,85,4.99,True,True,True,True,0.0
+2070550,A Castle Full of Cats,Overwhelmingly Positive,99,2.99,True,False,True,True,0.0
+2073470,Kanjozoku Game レーサー Online Street Racing & Drift,Very Positive,86,5.99,True,False,False,True,10.0
+2074800,Richman 11,Mixed,47,18.99,True,True,False,True,0.0
+2078780,Lovelorn sanatoriumⅠ,Mostly Positive,70,7.99,True,False,False,True,0.0
+2085360,Insomnia: Theater in the Head,Overwhelmingly Positive,97,2.49,True,True,False,True,0.0
+2087030,Shatterline,Mostly Positive,79,0.0,True,False,False,True,0.0
+2088250,瘟疫清零计划 Project Zero,Overwhelmingly Positive,95,0.0,True,False,False,True,0.0
+2088570,Tiny Rogues,Overwhelmingly Positive,97,5.99,True,False,False,True,0.0
+2096600,Crysis 2 Remastered,Very Positive,89,17.99,True,False,False,True,0.0
+2096610,Crysis 3 Remastered,Very Positive,88,17.99,True,False,False,True,0.0
+2098350,Escape Memoirs: Mini Stories,Very Positive,88,0.0,True,False,False,True,0.0
+2102020,Different Strokes,Very Positive,93,0.0,True,False,False,True,0.0
+2106520,私のリアルは充実しすぎている フルボイス版,Overwhelmingly Positive,97,9.99,True,False,False,True,0.0
+2109460,VillageRhapsody,Overwhelmingly Positive,96,2.99,True,False,False,True,0.0
+2119490,TRAHA Global,Mixed,52,0.0,True,False,False,True,0.0
+2124420,Fate Seeker: Journey,Mostly Positive,77,10.0,True,False,False,True,0.0
+2124780,Endoparasitic,Very Positive,94,9.99,True,True,True,True,0.0
+2135690,Ticy Adventure Club,Overwhelmingly Positive,98,0.0,True,False,False,True,0.0
+2138700,Crypt,Very Positive,92,0.0,True,False,False,True,0.0
+2141690,Car Dealership Simulator,Mostly Positive,79,9.99,True,False,False,True,0.0
+2141730,Backrooms: Escape Together,Very Positive,81,4.99,True,False,False,True,0.0
+2158860,JBMod,Mostly Positive,70,0.0,True,False,True,True,0.0
+2167580,Summoners War: Chronicles,Mostly Positive,79,0.0,True,True,False,True,0.0
+2190290,To Be or Not to Be,Very Positive,86,12.99,True,False,False,True,0.0
+2207540,Pages of Time: Prologue,Overwhelmingly Positive,97,0.0,True,False,False,True,0.0
+2208920,Assassin's Creed Valhalla,Mixed,67,15.0,True,False,False,True,0.0
+2237980,Outpath: First Journey,Overwhelmingly Positive,97,0.0,True,False,False,True,0.0
+2240530,BABBDI,Overwhelmingly Positive,97,0.0,True,True,True,True,0.0
